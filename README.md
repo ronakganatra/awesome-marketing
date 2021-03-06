@@ -1,4 +1,4 @@
-![Awesome Marketing](https://media.giphy.com/media/YRw676NBrmPeM/giphy.gif)
+![OG](og.png)
 
 # awesome-marketing
 
@@ -19,6 +19,9 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Strategy](#strategy)
 - [Tools](#tools)
 - [Tweets](#tweets)
+
+![Awesome Marketing](https://media.giphy.com/media/YRw676NBrmPeM/giphy.gif)
+
 
 ## Blogs and Websites (Personal or Company)
 
