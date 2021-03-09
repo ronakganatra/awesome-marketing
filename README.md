@@ -15,6 +15,7 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Others](#others)
 - [Paid Marketing](#paid-marketing)
 - [Podcasts](#podcasts)
+- [Product Marketing](#product-marketing)
 - [SEO](#seo)
 - [Strategy](#strategy)
 - [Tools](#tools)
