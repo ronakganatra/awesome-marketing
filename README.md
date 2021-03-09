@@ -57,6 +57,8 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 
 - [Kevin Indig's 2020 Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7/tblO6IGBOmYbuH9FL?backgroundColor=yellow&viewControls=on) - An Airtable of 225 bookmarks from 2020
 - [How Morning Brew's referral program built an audience of 1.5 million subscribers](https://medium.com/the-mission/how-morning-brews-referral-program-built-an-audience-of-1-5-million-subscribers-3315482c1aa5)
+- [Content Driven Growth](https://www.lennysnewsletter.com/p/content-driven-growth-strategy) - A great writeup on Content Driven Growth from Lenny's Newsletter, focusing on Hubspot, aHrefs, Intercom, and Slidebean
+- [Acquisition Channel Opportunities](https://www.indiehackers.com/post/acquisition-channel-opportunities-content-marketing-google-sheets-fake-reviews-0371eb1356)
 
 ## CRM
 
@@ -129,6 +131,11 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Masters of Scale by Reid Hoffmann](https://mastersofscale.com/)
 - [Entrepreneurs on Fire by John Lee Duma](https://www.eofire.com/podcast/)
 
+## Product Marketing
+
+- [Product Marketing Reading List](https://productmarketingalliance.com/your-definitive-product-marketing-reading-list/) - A reading list of PMM books by the PMA
+
+
 ## SEO
 
 - [SEO Community](https://seo-community.org/) - Public domain project listing resources for SEO.
@@ -172,3 +179,7 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [The SaaS Board Meeting](https://twitter.com/DavidSacks/status/1367532639247163392)
 - [Oatly case study](https://twitter.com/kevinleeme/status/1286716796448301057)
 - [Uncommon SEO Knowledge](https://twitter.com/patrickstox/status/1292484953503158275)
+- [M&A Marketing and Acquiring Communities](https://twitter.com/coreyhainesco/status/1369123488867389440)
+- [Community Capitalism](https://twitter.com/charlierward/status/1368591361864241157)
+- [Marketing to Developers and building developer relations](https://twitter.com/swyx/status/1367518496326709251)
+- [Turning opinions into marketing proof](https://twitter.com/thinking_slow/status/1366433850994397184)
