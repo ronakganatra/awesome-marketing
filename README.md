@@ -111,6 +111,7 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Reframing Headless CMS](https://www.episerver.com/articles/reframing-headless-cms)
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
 - [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew)
+- [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
 
 ## Paid Marketing
 
