@@ -185,3 +185,5 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Community Capitalism](https://twitter.com/charlierward/status/1368591361864241157)
 - [Marketing to Developers and building developer relations](https://twitter.com/swyx/status/1367518496326709251)
 - [Turning opinions into marketing proof](https://twitter.com/thinking_slow/status/1366433850994397184)
+- [Building a Community from Scratch](https://twitter.com/mkobach/status/1254918328516333574)
+- [Best SaaS Company Blogs](https://twitter.com/dr/status/1370002350614618116)
