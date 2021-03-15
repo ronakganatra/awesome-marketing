@@ -136,6 +136,8 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 ## Product Marketing
 
 - [Product Marketing Reading List](https://productmarketingalliance.com/your-definitive-product-marketing-reading-list/) - A reading list of PMM books by the PMA
+- [What is Product Marketing?](https://setapp.com/business/what-is-product-marketing)
+- [How to build a successful Go To Market Strategy](https://www.process.st/go-to-market-strategy/)
 
 
 ## SEO
