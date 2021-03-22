@@ -147,12 +147,17 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Learning SEO](https://learningseo.io/) - Free SEO learning roadmap with tons of resources
 - [How does SEO Work?](https://learn.g2.com/how-does-seo-work) - G2 article on the basics of SEO
 - [Search Engine Land](https://searchengineland.com/)
+- [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/)
+
 
 ## Strategy and Growth
 
 - [Difference between SLG, MLG, and PLG](https://blog.close.com/product-led-sales-led-marketing-led/)
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
 - [25 Growth Strategies](https://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/)
+- [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
+- [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
+- [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
 
 
 ## Tools
@@ -189,3 +194,4 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Turning opinions into marketing proof](https://twitter.com/thinking_slow/status/1366433850994397184)
 - [Building a Community from Scratch](https://twitter.com/mkobach/status/1254918328516333574)
 - [Best SaaS Company Blogs](https://twitter.com/dr/status/1370002350614618116)
+- [Founder "Types", and how to hire accordingly](https://twitter.com/msuster/status/1373332637029298177)
