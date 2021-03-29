@@ -112,6 +112,7 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
 - [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew)
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
+- [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time)
 
 ## Paid Marketing
 
@@ -158,6 +159,9 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 - [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
+- [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
+- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
+- [11 Channels that consistently work](https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03)
 
 
 ## Tools
