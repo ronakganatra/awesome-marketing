@@ -27,15 +27,15 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 ## Blogs and Websites (Personal or Company)
 
 - [Growth Supply](https://growthsupply.com/) - Great writing on startups and growth from Ali Mese
-- [Kevin Indig](https://www.kevin-indig.com/) - No-BS long reads on SEO, Content, and Strategy
+- [Kevin Indig](https://www.kevin-indig.com/) - No-BS long reads on SEO, Content, and Strategy (⭐)
 - [Brian Balfour](https://brianbalfour.com/) - Long Reads on growth and marketing
 - [Sixteen Ventures](https://sixteenventures.com/) - Sales acceleration and growth marketing posts
-- [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business
+- [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business (⭐)
 - [Better Marketing](https://medium.com/better-marketing)
 
 ## Books
 
-- [Everything is Fucked: A Book About Hope by Mark Manson](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439)
+- [Everything is Fucked: A Book About Hope by Mark Manson](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439) (⭐)
 - [Contagious: Why Things Catch On by Jonah Berger](https://jonahberger.com/books/contagious/)
 - [Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content by Ann Handley](https://annhandley.com/everybodywrites/)
 - [Permission Marketing by Seth Godin](https://www.amazon.com/Permission-Marketing-Turning-Strangers-Customers/dp/0684856360)
@@ -48,18 +48,21 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Originals: How Non-Conformists Move the World by Adam Grant](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/014312885X)
 - [Radical Candor by Kim Scott](https://www.amazon.de/-/en/gp/product/1529038340/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
 - [Deep Work by Cal Newport](https://www.amazon.de/-/en/gp/product/0349411905/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)
-- [Essentialism: The Disciplined Pursuit of Less by Greg McKeown](https://www.amazon.de/-/en/gp/product/0753555166)
+- [Essentialism: The Disciplined Pursuit of Less by Greg McKeown](https://www.amazon.de/-/en/gp/product/0753555166) (⭐)
 - [Building a StoryBrand by Donald Miller](https://www.amazon.de/-/en/gp/product/1400201837/ref=ppx_yo_dt_b_asin_title_o09_s01?ie=UTF8&psc=1)
 - [So Good They Can't Ignore You by Cal Newport](https://www.amazon.de/-/en/gp/product/0349415862/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 - [Thinking, Fast and Slow by Daniel Kahneman](https://www.amazon.de/-/en/gp/product/0141033576/ref=ppx_od_dt_b_asin_title_s01?ie=UTF8&psc=1)
 - [Product Led Growth by Wes Bush](https://productled.com/book/)
+- [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0887307175/ref=sr_1_1)
+- [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) (⭐)
 
 ## Content Marketing
 
 - [Kevin Indig's 2020 Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7/tblO6IGBOmYbuH9FL?backgroundColor=yellow&viewControls=on) - An Airtable of 225 bookmarks from 2020
 - [How Morning Brew's referral program built an audience of 1.5 million subscribers](https://medium.com/the-mission/how-morning-brews-referral-program-built-an-audience-of-1-5-million-subscribers-3315482c1aa5)
-- [Content Driven Growth](https://www.lennysnewsletter.com/p/content-driven-growth-strategy) - A great writeup on Content Driven Growth from Lenny's Newsletter, focusing on Hubspot, aHrefs, Intercom, and Slidebean
+- [Content Driven Growth](https://www.lennysnewsletter.com/p/content-driven-growth-strategy) - A great writeup on Content Driven Growth from Lenny's Newsletter, focusing on Hubspot, aHrefs, Intercom, and Slidebean (⭐)
 - [Acquisition Channel Opportunities](https://www.indiehackers.com/post/acquisition-channel-opportunities-content-marketing-google-sheets-fake-reviews-0371eb1356)
+- ["Mirage Content" Is the Reason Your Company Blog Isn’t Generating Leads](https://growandconvert.com/content-marketing/mirage-content/)
 
 ## CRM
 
@@ -93,8 +96,8 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 
 ## Newsletters
 
-- [Growth Newsletter by Julian Shapiro](https://www.demandcurve.com/newsletter)
-- [Hitenism by Hiten Shah](https://hitenism.com/)
+- [Growth Newsletter by Julian Shapiro](https://www.demandcurve.com/newsletter) (⭐)
+- [Hitenism by Hiten Shah](https://hitenism.com/) (⭐)
 - [Growth Memo by Kevin Indig](https://www.kevin-indig.com/)
 - [Marketing Weekly by Corey Haines](https://app.mailbrew.com/coreyhainesco/marketing-weekly-WV3pZMdwsL29)
 
@@ -103,16 +106,19 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 
 
 - [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
-- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management
+- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 - [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
 - [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
 - [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
 - [Reframing Headless CMS](https://www.episerver.com/articles/reframing-headless-cms)
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
-- [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew)
-- [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
-- [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time)
+- [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew) (⭐)
+- [Please, Please Don’t A/B Test That](https://medium.com/@talraviv/please-please-dont-a-b-test-that-980a9630e4fb) (⭐)
+- [Why most analytics efforts fail](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
+- [How to (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/)
+- [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
+- [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
 
 ## Paid Marketing
 
@@ -121,9 +127,9 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 ## Podcasts
 
 - [The Tim Ferriss Show by Tim Ferriss](https://tim.blog/podcast/)
-- [Pivot by Scott Galloway and Kara Swisher](https://player.fm/podcasts/Scott-Galloway)
+- [Pivot by Scott Galloway and Kara Swisher](https://player.fm/podcasts/Scott-Galloway) (⭐)
 - [The Prof G Show by Scott Galloway](http://www.westwoodonepodcasts.com/pods/the-prof-g-show-with-scott-galloway/)
-- [Everyone Hates Marketers by Louis Grenier](https://www.everyonehatesmarketers.com/)
+- [Everyone Hates Marketers by Louis Grenier](https://www.everyonehatesmarketers.com/) (⭐)
 - [This Old Marketing Podcast by Joe Pulizzi and Robert Rose](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/)
 - [Perpetual Traffic by Ralph Burns and Amanda Powell](https://digitalmarketer.com/podcast/perpetual-traffic/)
 - [Online Marketing Made Easy by Amy Porterfield](https://amyporterfield.com/amy-porterfield-podcast/)
@@ -134,21 +140,28 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Masters of Scale by Reid Hoffmann](https://mastersofscale.com/)
 - [Entrepreneurs on Fire by John Lee Duma](https://www.eofire.com/podcast/)
 
-## Product Marketing
+## Product, Community, and Developer Marketing
 
 - [Product Marketing Reading List](https://productmarketingalliance.com/your-definitive-product-marketing-reading-list/) - A reading list of PMM books by the PMA
 - [What is Product Marketing?](https://setapp.com/business/what-is-product-marketing)
 - [How to build a successful Go To Market Strategy](https://www.process.st/go-to-market-strategy/)
+- [Community-Led Growth: The Product-Led Growth Expansion Pack](https://corinneriley.medium.com/community-led-growth-the-product-led-growth-expansion-pack-b474ab9a7940) (⭐)
+- [Coming for the Content, Staying for the Community” Started With Video Games (Or Maybe Religion?) But Will Define Media This Decade](https://hunterwalk.medium.com/coming-for-the-content-staying-for-the-community-started-with-video-games-or-maybe-religion-5083f3773a2)
+- [Ways to think about customer onboarding](https://www.intercom.com/blog/videos/ways-to-think-about-customer-onboarding/)
+- [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
+- [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
+- [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 
 
 ## SEO
 
-- [SEO Community](https://seo-community.org/) - Public domain project listing resources for SEO.
+- [SEO Community](https://seo-community.org/) - Public domain project listing resources for SEO (⭐)
 - [ahrefs SEO trends for 2021](https://ahrefs.com/blog/seo-trends/)
 - [Learning SEO](https://learningseo.io/) - Free SEO learning roadmap with tons of resources
 - [How does SEO Work?](https://learn.g2.com/how-does-seo-work) - G2 article on the basics of SEO
 - [Search Engine Land](https://searchengineland.com/)
-- [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/)
+- [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
+- [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/)
 
 
 ## Strategy and Growth
@@ -159,9 +172,17 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 - [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
+- [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
 - [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
 - [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
 - [11 Channels that consistently work](https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03)
+- [Improving Your SaaS' Free to Paid Conversion Rate](https://www.forgetthefunnel.com/resources/saas-free-to-paid-conversion-rate)
+- [Don't Let Your North Star Metric Deceive You](https://www.reforge.com/blog/north-star-metric-growth) (⭐)
+- [Flywheels And How To Create Content Communities](https://andyjohns.co/posts/flywheels-and-how-to-create-content-communities) (⭐)
+- [How to get your company out of the MQL trap](https://www.yaagneshwaran.com/blog/mql-trap/)
+- [How to know if you've got product-market fit](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
+- [SaaS Churn and Short-Term Customers: The Contrarian View](https://sparktoro.com/blog/saas-churn-and-short-term-customers-the-contrarian-view/) (⭐)
+- [Is it time to ditch the old SaaS metrics?](https://kylepoyar.substack.com/p/plg-saas-metrics)
 
 
 ## Tools
@@ -199,3 +220,4 @@ A living document of hand-picked resources for marketers, or I bookmark too much
 - [Building a Community from Scratch](https://twitter.com/mkobach/status/1254918328516333574)
 - [Best SaaS Company Blogs](https://twitter.com/dr/status/1370002350614618116)
 - [Founder "Types", and how to hire accordingly](https://twitter.com/msuster/status/1373332637029298177)
+- [OnlyFans grew faster than any other creator platform this year](https://twitter.com/petergyang/status/1333088904296026119)
