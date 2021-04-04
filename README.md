@@ -2,27 +2,11 @@
 
 # awesome-marketing
 
-A living document of hand-picked resources for marketers, or I bookmark too much crap and forget which folder they're in.
+A living document of hand-picked resources for marketers (or, I bookmark too many things to read and forget which folder they're in).
 
-## Contents
-
-- [Blogs and Websites](#blogs-and-websites)
-- [Books](#books)
-- [Content Marketing](#content-marketing)
-- [CRM](#crm)
-- [Design Inspiration](#design-inspiration)
-- [Newsletters](#newsletters)
-- [Others](#others)
-- [Paid Marketing](#paid-marketing)
-- [Podcasts](#podcasts)
-- [Product Marketing](#product-marketing)
-- [SEO](#seo)
-- [Strategy](#strategy)
-- [Tools](#tools)
-- [Tweets](#tweets)
+Why am I turning my bookmarks into a public repo? The problem with marketing related content online is that it's 99% crap and fluff. I try to read a lot and save my resources. So I thought I might as well make it public, so you can save yourself some time trying to find things worth reading.
 
 ![Awesome Marketing](https://media.giphy.com/media/YRw676NBrmPeM/giphy.gif)
-
 
 ## Blogs and Websites (Personal or Company)
 
