@@ -47,6 +47,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Content Driven Growth](https://www.lennysnewsletter.com/p/content-driven-growth-strategy) - A great writeup on Content Driven Growth from Lenny's Newsletter, focusing on Hubspot, aHrefs, Intercom, and Slidebean (⭐)
 - [Acquisition Channel Opportunities](https://www.indiehackers.com/post/acquisition-channel-opportunities-content-marketing-google-sheets-fake-reviews-0371eb1356)
 - ["Mirage Content" Is the Reason Your Company Blog Isn’t Generating Leads](https://growandconvert.com/content-marketing/mirage-content/)
+- [100m Posts Analyzed: What You Need To Write The Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/)
 
 ## CRM
 
