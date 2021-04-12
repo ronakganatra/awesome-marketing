@@ -136,6 +136,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
+- [A Guide to B2B SaaS Product Onboarding](https://arrows.to/resources/onboarding-101/) (⭐)
 
 
 ## SEO
@@ -168,6 +169,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to know if you've got product-market fit](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
 - [SaaS Churn and Short-Term Customers: The Contrarian View](https://sparktoro.com/blog/saas-churn-and-short-term-customers-the-contrarian-view/) (⭐)
 - [Is it time to ditch the old SaaS metrics?](https://kylepoyar.substack.com/p/plg-saas-metrics)
+- [The 4 Types of Defensibility](https://www.nfx.com/post/the-four-types-of-defensibility/)
+- [How to use FOMO to Increase Conversions](https://www.smashingmagazine.com/2019/11/fomo-increase-conversions/)
+- [How Amazon Built It's Growth Ecosystem](https://growthhackers.com/growth-studies/how-amazon-built-its-growth-ecosystem)
+- [International Growth is no longer optional for SaaS Companies](https://openviewpartners.com/blog/international-growth-saas/)
 
 
 ## Tools
