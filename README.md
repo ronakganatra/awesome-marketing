@@ -1,4 +1,4 @@
-![OG](og.png)
+![OG](og-image.png)
 
 # awesome-marketing
 
