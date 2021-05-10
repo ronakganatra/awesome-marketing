@@ -108,6 +108,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/)
 - [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
 - [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
+- [Your website is your most important marketing asset. Here's how to build it right the 1st time.](https://mkt1.substack.com/p/your-website-is-your-most-important)
 
 ## Paid Marketing
 
@@ -177,6 +178,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to use FOMO to Increase Conversions](https://www.smashingmagazine.com/2019/11/fomo-increase-conversions/)
 - [How Amazon Built It's Growth Ecosystem](https://growthhackers.com/growth-studies/how-amazon-built-its-growth-ecosystem)
 - [International Growth is no longer optional for SaaS Companies](https://openviewpartners.com/blog/international-growth-saas/)
+- [The three types of “good” onboarding friction](https://www.productled.org/blog/three-types-good-onboarding-friction)
+- [Designing for Buying: How to Break Through the Ceiling in Product-Led Growth](https://sarahguo.com/blog/designing-for-buying)
 
 
 ## Tools
@@ -185,6 +188,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
+- [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 
 ## Tweets
 
