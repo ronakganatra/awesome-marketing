@@ -115,6 +115,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
 - [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
 - [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
+- [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
 
 ## Paid Marketing
 
