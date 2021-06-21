@@ -52,6 +52,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Acquisition Channel Opportunities](https://www.indiehackers.com/post/acquisition-channel-opportunities-content-marketing-google-sheets-fake-reviews-0371eb1356)
 - ["Mirage Content" Is the Reason Your Company Blog Isn’t Generating Leads](https://growandconvert.com/content-marketing/mirage-content/)
 - [100m Posts Analyzed: What You Need To Write The Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/)
+- [Visual Hierarchy: A 2021 Optimization Guide For Marketers](https://unbounce.com/landing-pages/visual-hierarchy/)
 
 ## CRM
 
@@ -109,6 +110,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
 - [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
 - [Your website is your most important marketing asset. Here's how to build it right the 1st time.](https://mkt1.substack.com/p/your-website-is-your-most-important)
+- [All your VPs really need to do is tilt the curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
+- [How the Best CEOs Use ‘Thinking Time’](https://openviewpartners.com/blog/ceo-thinking-time) (⭐)
+- [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
+- [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
+- [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
 
 ## Paid Marketing
 
@@ -142,6 +148,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
 - [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [A Guide to B2B SaaS Product Onboarding](https://arrows.to/resources/onboarding-101/) (⭐)
+- [Relationship First Management](https://worklifenotes.com/2021/06/09/relationship-first-management/)
+- [Yes, you can pivot to Product Led Growth](https://kylepoyar.substack.com/p/yes-you-can-pivot-to-product-led) (⭐)
 
 
 ## SEO
@@ -152,10 +160,12 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How does SEO Work?](https://learn.g2.com/how-does-seo-work) - G2 article on the basics of SEO
 - [Search Engine Land](https://searchengineland.com/)
 - [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
-- [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/)
+- [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
+- [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
+- [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 
 
-## Strategy and Growth
+## Marketing Strategy and Growth
 
 - [Difference between SLG, MLG, and PLG](https://blog.close.com/product-led-sales-led-marketing-led/)
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
@@ -180,6 +190,13 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [International Growth is no longer optional for SaaS Companies](https://openviewpartners.com/blog/international-growth-saas/)
 - [The three types of “good” onboarding friction](https://www.productled.org/blog/three-types-good-onboarding-friction)
 - [Designing for Buying: How to Break Through the Ceiling in Product-Led Growth](https://sarahguo.com/blog/designing-for-buying)
+- [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
+- [Why Your Marketing Strategy Needs a Conversion Funnel](https://unbounce.com/campaign-strategy/conversion-funnel/)
+- [How People Discover New Products](https://www.lennysnewsletter.com/p/how-people-discover-new-products) (⭐)
+- [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
+- [3 Unusual Drivers of Early-Stage Growth](https://openviewpartners.com/blog/drivers-early-stage-growth/)
+- [The 6 Patterns Of Uncommonly Successful Teams](https://www.nfx.com/post/patterns-of-uncommonly-successful-teams/) (⭐)
+
 
 
 ## Tools
@@ -194,7 +211,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 - [When doing customer research, don't ask your customer for their OPINION — get them to tell you STORIES.](https://twitter.com/KateBour/status/1292101482293211137)
 - [Top Marketers in SaaS](https://twitter.com/coreyhainesco/status/1304794143063826432)
-- [The first line of your copy is crucial.](https://twitter.com/GoodMarketingHQ/status/1344671219057090562)
+- [The first line of your copy is crucial.](https://twitter.com/GoodMarketingHQ/status/1344671219057090562) (⭐)
 - [10 ideas that changed my life: (thread)](https://twitter.com/jackbutcher/status/1345081536295669760)
 - [Turn any SERP into a keyword research tool](https://twitter.com/Kammie_Jenkins/status/1349753139612639236)
 - [2020 Best Campaigns we didn't create](https://twitter.com/ichbinGisele/status/1351274398314090498)
@@ -202,15 +219,15 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Digital PR for SEO Rankings](https://twitter.com/_spamtaylor/status/1354179118120775689)
 - [How to Grow Startups](https://twitter.com/Julian/status/1353764328030130179)
 - [Simple Copywriting](https://twitter.com/VeryGoodCopy/status/1356643717562703872)
-- [100 Landing Page Hot Tips](https://twitter.com/robhope/status/1265278107088347136)
+- [100 Landing Page Hot Tips](https://twitter.com/robhope/status/1265278107088347136) (⭐)
 - [Mapping the Creator Economy](https://twitter.com/trengriffin/status/1358980425230610439)
-- [Marketing to Developers](https://twitter.com/swyx/status/1361279902889086980)
+- [Marketing to Developers](https://twitter.com/swyx/status/1361279902889086980) (⭐)
 - [Best Threads on Twitter](https://twitter.com/jmoserr/status/1360014458962075648)
 - [Marketing Framework for Communities](https://twitter.com/gregisenberg/status/1363174620912885761)
 - [How to determine value of backlinks](https://twitter.com/jmoserr/status/1364605133347151877)
 - [The SaaS Board Meeting](https://twitter.com/DavidSacks/status/1367532639247163392)
 - [Oatly case study](https://twitter.com/kevinleeme/status/1286716796448301057)
-- [Uncommon SEO Knowledge](https://twitter.com/patrickstox/status/1292484953503158275)
+- [Uncommon SEO Knowledge](https://twitter.com/patrickstox/status/1292484953503158275) (⭐)
 - [M&A Marketing and Acquiring Communities](https://twitter.com/coreyhainesco/status/1369123488867389440)
 - [Community Capitalism](https://twitter.com/charlierward/status/1368591361864241157)
 - [Marketing to Developers and building developer relations](https://twitter.com/swyx/status/1367518496326709251)
@@ -218,4 +235,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Building a Community from Scratch](https://twitter.com/mkobach/status/1254918328516333574)
 - [Best SaaS Company Blogs](https://twitter.com/dr/status/1370002350614618116)
 - [Founder "Types", and how to hire accordingly](https://twitter.com/msuster/status/1373332637029298177)
-- [OnlyFans grew faster than any other creator platform this year](https://twitter.com/petergyang/status/1333088904296026119)
+- [OnlyFans grew faster than any other creator platform this year](https://twitter.com/petergyang/status/1333088904296026119) (⭐)
+- [Playing long term games in business](https://twitter.com/dunkhippo33/status/1396978785665253377)
+- [Driving others to change to your product](https://twitter.com/joulee/status/1395016837646020617)
+- [Landing Page Copywriting Tips](https://twitter.com/jmoserr/status/1395025640022237186) (⭐)
+- [Linear Growth vs. Non-Linear Growth](https://twitter.com/dharmesh/status/1394368667350097922) (⭐)
+- [The top 0.1% of marketing mental models.](https://twitter.com/george__mack/status/1391824470977941516)
+- [SEO is the magic ingredient behind billion-dollar companies](https://twitter.com/searchbrat/status/1391043242901262343) (⭐)
+- [Long list of free and paid Marketing tools](https://twitter.com/CJ_250marketing/status/1379195336099385344)
