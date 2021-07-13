@@ -116,6 +116,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
 - [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
+- [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
 
 ## Paid Marketing
 
@@ -151,6 +152,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [A Guide to B2B SaaS Product Onboarding](https://arrows.to/resources/onboarding-101/) (⭐)
 - [Relationship First Management](https://worklifenotes.com/2021/06/09/relationship-first-management/)
 - [Yes, you can pivot to Product Led Growth](https://kylepoyar.substack.com/p/yes-you-can-pivot-to-product-led) (⭐)
+- [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)(⭐)
 
 
 ## SEO
@@ -197,6 +199,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
 - [3 Unusual Drivers of Early-Stage Growth](https://openviewpartners.com/blog/drivers-early-stage-growth/)
 - [The 6 Patterns Of Uncommonly Successful Teams](https://www.nfx.com/post/patterns-of-uncommonly-successful-teams/) (⭐)
+- [Product-Led Growth’s Failure](https://every.to/napkin-math/product-led-growth-s-failure)
 
 
 
