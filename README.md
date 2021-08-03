@@ -153,6 +153,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Relationship First Management](https://worklifenotes.com/2021/06/09/relationship-first-management/)
 - [Yes, you can pivot to Product Led Growth](https://kylepoyar.substack.com/p/yes-you-can-pivot-to-product-led) (⭐)
 - [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)(⭐)
+- [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)
 
 
 ## SEO
@@ -200,6 +201,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [3 Unusual Drivers of Early-Stage Growth](https://openviewpartners.com/blog/drivers-early-stage-growth/)
 - [The 6 Patterns Of Uncommonly Successful Teams](https://www.nfx.com/post/patterns-of-uncommonly-successful-teams/) (⭐)
 - [Product-Led Growth’s Failure](https://every.to/napkin-math/product-led-growth-s-failure)
+- [The GACC Marketing Brief: The best framework we’ve created](https://mkt1.substack.com/p/the-gacc-marketing-brief-the-best) (⭐)
 
 
 
