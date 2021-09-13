@@ -44,6 +44,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0887307175/ref=sr_1_1)
 - [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) (⭐)
 
+## Case Studies
+
+- [WhatsApp, The Anti-Marketing Growth Phenomenon](https://community.growthhackers.com/posts/whatsapp-the-anti-marketing-growth-phenomenon)
+
 ## Content Marketing
 
 - [Kevin Indig's 2020 Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7/tblO6IGBOmYbuH9FL?backgroundColor=yellow&viewControls=on) - An Airtable of 225 bookmarks from 2020
@@ -117,6 +121,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
 - [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
+- [How to Build and Optimize CTA Buttons That Convert](https://unbounce.com/conversion-rate-optimization/cta-buttons-that-convert/)
+- [Keep Them Coming Back: 23 Habit-Making Insights for Product-Minded Founders](https://www.nfx.com/post/keep-them-coming-back/)
+- [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
+- [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
 
 ## Paid Marketing
 
@@ -154,6 +162,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Yes, you can pivot to Product Led Growth](https://kylepoyar.substack.com/p/yes-you-can-pivot-to-product-led) (⭐)
 - [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)(⭐)
 - [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)
+- [Selling to the Enterprise: Crafting Product Narratives](https://staysaasy.com/product/2021/08/29/narratives-in-enterprise-saas.html) (⭐)
+- [The Buyer Intent Playbook: How Marketers Can Utilize Intent Data](https://learn.g2.com/buyer-intent-playbook-marketing)
+- [Product-Led Growth Tech Stack: 199 SaaS tools for growth](https://productled.com/blog/product-led-growth-tech-stack/)
+- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
+- [Crash Course in Marketing Goal Setting](https://mkt1.substack.com/p/goals) (⭐)
 
 
 ## SEO
@@ -202,6 +215,9 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The 6 Patterns Of Uncommonly Successful Teams](https://www.nfx.com/post/patterns-of-uncommonly-successful-teams/) (⭐)
 - [Product-Led Growth’s Failure](https://every.to/napkin-math/product-led-growth-s-failure)
 - [The GACC Marketing Brief: The best framework we’ve created](https://mkt1.substack.com/p/the-gacc-marketing-brief-the-best) (⭐)
+- [The Conversion Marketing Funnel: How to Unlock More Leads, Sales & Revenue with A Personalized Sales Funnel](https://www.convertflow.com/blog/conversion-marketing) (⭐)
+- [Why premature scaling fails: The Traction Treadmill](https://andrewchen.com/traction-treadmill/)
+- [What’s A High Performance Organization?](https://rob-bier.medium.com/whats-a-high-performance-organization-eb0dd664af4d)
 
 
 
