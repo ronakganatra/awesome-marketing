@@ -218,6 +218,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
 - [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
+- [Here's How Google Knows in Less Than 5 Minutes if a New Employee Will Get Off to the Perfect Start](https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-a-new-employee-will-get-off-to-perfect-start.html) (⭐)
 
 
 # Tools
