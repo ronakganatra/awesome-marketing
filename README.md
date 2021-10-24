@@ -52,9 +52,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [From PPC to IPO: How Snowflake Did It](https://foundationinc.co/lab/snowflake-ipo)
 - [How Notion Built A $2B SaaS Startup Through Community & Templates](https://foundationinc.co/lab/notion-strategy)
 - [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
-- [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
-- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
-- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
+- [How Burger King Used FIFA 20 To Turn a Tiny Soccer Team Into Superstars](https://bettermarketing.pub/how-burger-king-used-fifa-20-to-turn-a-tiny-soccer-team-into-superstars-6b97cef4fc8e)
+- [How Fractl Earned Links from 931 Unique Domains for Porch.com in a Single Year](http://www.frac.tl/work/content-marketing-case-studies/porch/)
+- [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
+- [Grubhub's link building strategy](https://marketingexamples.com/seo/grubhub-link-building)
+
 
 # Content Marketing
 
@@ -67,6 +69,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Visual Hierarchy: A 2021 Optimization Guide For Marketers](https://unbounce.com/landing-pages/visual-hierarchy/)
 - [Knowing when to use "How to" versus "Why to" content](https://www.linkedin.com/pulse/how-versus-why-content-customer-success-shareil-nariman/)
 - [The four forces of bad content](https://www.animalz.co/blog/bad-content/)
+- [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 
 # CRM
 
@@ -157,7 +160,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Learning SEO](https://learningseo.io/) - Free SEO learning roadmap with tons of resources
 - [How does SEO Work?](https://learn.g2.com/how-does-seo-work) - G2 article on the basics of SEO
 - [Search Engine Land](https://searchengineland.com/)
-- [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
