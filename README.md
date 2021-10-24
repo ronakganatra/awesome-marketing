@@ -10,7 +10,7 @@ I also have another list of [awesome-developer-marketing](https://github.com/ron
 
 Why am I turning my bookmarks into a public repo? The problem with marketing related content online is that it's 99% crap and fluff. I try to read a lot and save my resources. So I thought I might as well make it public, so you can save yourself some time trying to find things worth reading.
 
-![Awesome Marketing](https://media.giphy.com/media/YRw676NBrmPeM/giphy.gif)
+![Awesome Marketing](https://media.giphy.com/media/E47JKwZnxvHuPjPkn1/giphy.gif)
 
 # Blogs and Websites (Personal or Company)
 
