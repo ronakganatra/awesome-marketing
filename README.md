@@ -12,7 +12,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 ![Awesome Marketing](https://media.giphy.com/media/YRw676NBrmPeM/giphy.gif)
 
-## Blogs and Websites (Personal or Company)
+# Blogs and Websites (Personal or Company)
 
 - [Growth Supply](https://growthsupply.com/) - Great writing on startups and growth from Ali Mese
 - [Kevin Indig](https://www.kevin-indig.com/) - No-BS long reads on SEO, Content, and Strategy (⭐)
@@ -21,7 +21,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business (⭐)
 - [Better Marketing](https://medium.com/better-marketing)
 
-## Books
+# Books
 
 - [Everything is Fucked: A Book About Hope by Mark Manson](https://www.amazon.com/Untitled-Mark-Manson/dp/0062888439) (⭐)
 - [Contagious: Why Things Catch On by Jonah Berger](https://jonahberger.com/books/contagious/)
@@ -44,11 +44,19 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0887307175/ref=sr_1_1)
 - [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) (⭐)
 
-## Case Studies
+# Case Studies
 
 - [WhatsApp, The Anti-Marketing Growth Phenomenon](https://community.growthhackers.com/posts/whatsapp-the-anti-marketing-growth-phenomenon)
+- [Duolingo, The antithesis to the bazaar](https://nibnalin.me/dust-nib/duolingo-the-antithesis-to-the-bazaar.html)
+- [The SEO-driven user acquisition behind Zapier's growth to $35M ARR](https://www.reforge.com/brief/the-seo-driven-user-acquisition-behind-zapier-s-growth-to-35m-arr#mRAkHHpXXWEKLo3aqVW-MQ)
+- [From PPC to IPO: How Snowflake Did It](https://foundationinc.co/lab/snowflake-ipo)
+- [How Notion Built A $2B SaaS Startup Through Community & Templates](https://foundationinc.co/lab/notion-strategy)
+- [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
+- [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
+- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
+- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
 
-## Content Marketing
+# Content Marketing
 
 - [Kevin Indig's 2020 Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7/tblO6IGBOmYbuH9FL?backgroundColor=yellow&viewControls=on) - An Airtable of 225 bookmarks from 2020
 - [How Morning Brew's referral program built an audience of 1.5 million subscribers](https://medium.com/the-mission/how-morning-brews-referral-program-built-an-audience-of-1-5-million-subscribers-3315482c1aa5)
@@ -57,12 +65,14 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - ["Mirage Content" Is the Reason Your Company Blog Isn’t Generating Leads](https://growandconvert.com/content-marketing/mirage-content/)
 - [100m Posts Analyzed: What You Need To Write The Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/)
 - [Visual Hierarchy: A 2021 Optimization Guide For Marketers](https://unbounce.com/landing-pages/visual-hierarchy/)
+- [Knowing when to use "How to" versus "Why to" content](https://www.linkedin.com/pulse/how-versus-why-content-customer-success-shareil-nariman/)
+- [The four forces of bad content](https://www.animalz.co/blog/bad-content/)
 
-## CRM
+# CRM
 
 - [Really Good Emails](https://reallygoodemails.com/) - Email inspiration for every email use case
 
-## Design Inspiration
+# Design Inspiration
 
 - [Copper CRM](https://www.copper.com/)
 - [Mollie Payments](https://www.mollie.com/en)
@@ -88,7 +98,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Pitch](https://pitch.com/)
 - [8Base](https://www.8base.com/)
 
-## Newsletters
+# Newsletters
 
 - [Growth Newsletter by Julian Shapiro](https://www.demandcurve.com/newsletter) (⭐)
 - [Hitenism by Hiten Shah](https://hitenism.com/) (⭐)
@@ -96,41 +106,15 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Marketing Weekly by Corey Haines](https://app.mailbrew.com/coreyhainesco/marketing-weekly-WV3pZMdwsL29)
 
 
-## Others
+# Performance Marketing & Optimization
 
-
-- [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
-- [Amir Shevat on Measuring Developer Relations](https://dev.to/swyx/notes-from-amir-shevat-on-measuring-managing-developer-relations-4geo) - a16z podcast on DevRel management (⭐)
-- [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
-- [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
-- [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
-- [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
-- [Reframing Headless CMS](https://www.episerver.com/articles/reframing-headless-cms)
-- [Books people (re)read](https://rauchg.com/2020/books-people-reread)
-- [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew) (⭐)
 - [Please, Please Don’t A/B Test That](https://medium.com/@talraviv/please-please-dont-a-b-test-that-980a9630e4fb) (⭐)
 - [Why most analytics efforts fail](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
 - [How to (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/)
-- [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
-- [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
-- [Your website is your most important marketing asset. Here's how to build it right the 1st time.](https://mkt1.substack.com/p/your-website-is-your-most-important)
-- [All your VPs really need to do is tilt the curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
-- [How the Best CEOs Use ‘Thinking Time’](https://openviewpartners.com/blog/ceo-thinking-time) (⭐)
-- [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
-- [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
-- [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
-- [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
-- [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
 - [How to Build and Optimize CTA Buttons That Convert](https://unbounce.com/conversion-rate-optimization/cta-buttons-that-convert/)
-- [Keep Them Coming Back: 23 Habit-Making Insights for Product-Minded Founders](https://www.nfx.com/post/keep-them-coming-back/)
-- [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
-- [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
 
-## Paid Marketing
 
-- 😶
-
-## Podcasts
+# Podcasts
 
 - [The Tim Ferriss Show by Tim Ferriss](https://tim.blog/podcast/)
 - [Pivot by Scott Galloway and Kara Swisher](https://player.fm/podcasts/Scott-Galloway) (⭐)
@@ -146,7 +130,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Masters of Scale by Reid Hoffmann](https://mastersofscale.com/)
 - [Entrepreneurs on Fire by John Lee Duma](https://www.eofire.com/podcast/)
 
-## Product, Community, and Developer Marketing
+# Product, Community, and Developer Marketing
 
 - [Product Marketing Reading List](https://productmarketingalliance.com/your-definitive-product-marketing-reading-list/) - A reading list of PMM books by the PMA
 - [What is Product Marketing?](https://setapp.com/business/what-is-product-marketing)
@@ -156,20 +140,17 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Ways to think about customer onboarding](https://www.intercom.com/blog/videos/ways-to-think-about-customer-onboarding/)
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
-- [How Developer Marketing Parallels Consumer Marketing](https://tomtunguz.com/developer-and-consumer-marketing-parallels/) (⭐)
 - [A Guide to B2B SaaS Product Onboarding](https://arrows.to/resources/onboarding-101/) (⭐)
 - [Relationship First Management](https://worklifenotes.com/2021/06/09/relationship-first-management/)
 - [Yes, you can pivot to Product Led Growth](https://kylepoyar.substack.com/p/yes-you-can-pivot-to-product-led) (⭐)
 - [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)(⭐)
-- [Community ≠ Marketing: Why We Need Go-to-Community, Not Just Go-to-Market](https://future.a16z.com/community-%E2%89%A0-marketing-why-we-need-go-to-community-not-just-go-to-market/)
 - [Selling to the Enterprise: Crafting Product Narratives](https://staysaasy.com/product/2021/08/29/narratives-in-enterprise-saas.html) (⭐)
 - [The Buyer Intent Playbook: How Marketers Can Utilize Intent Data](https://learn.g2.com/buyer-intent-playbook-marketing)
 - [Product-Led Growth Tech Stack: 199 SaaS tools for growth](https://productled.com/blog/product-led-growth-tech-stack/)
-- [The Case for ‘Developer Experience’](https://future.a16z.com/the-case-for-developer-experience/)
 - [Crash Course in Marketing Goal Setting](https://mkt1.substack.com/p/goals) (⭐)
 
 
-## SEO
+# SEO
 
 - [SEO Community](https://seo-community.org/) - Public domain project listing resources for SEO (⭐)
 - [ahrefs SEO trends for 2021](https://ahrefs.com/blog/seo-trends/)
@@ -181,8 +162,13 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 
+# Startups & Getting Started
 
-## Marketing Strategy and Growth
+- [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
+- [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
+- [Mapping the Insights that Drive Startup Ideas & Theses](https://newsletter.sandhill.io/p/insights-that-drive-ideation)
+
+# Marketing Strategy and Growth
 
 - [Difference between SLG, MLG, and PLG](https://blog.close.com/product-led-sales-led-marketing-led/)
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
@@ -190,7 +176,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 - [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
-- [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
 - [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
 - [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
 - [11 Channels that consistently work](https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03)
@@ -207,7 +192,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [International Growth is no longer optional for SaaS Companies](https://openviewpartners.com/blog/international-growth-saas/)
 - [The three types of “good” onboarding friction](https://www.productled.org/blog/three-types-good-onboarding-friction)
 - [Designing for Buying: How to Break Through the Ceiling in Product-Led Growth](https://sarahguo.com/blog/designing-for-buying)
-- [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
 - [Why Your Marketing Strategy Needs a Conversion Funnel](https://unbounce.com/campaign-strategy/conversion-funnel/)
 - [How People Discover New Products](https://www.lennysnewsletter.com/p/how-people-discover-new-products) (⭐)
 - [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
@@ -218,18 +202,33 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Conversion Marketing Funnel: How to Unlock More Leads, Sales & Revenue with A Personalized Sales Funnel](https://www.convertflow.com/blog/conversion-marketing) (⭐)
 - [Why premature scaling fails: The Traction Treadmill](https://andrewchen.com/traction-treadmill/)
 - [What’s A High Performance Organization?](https://rob-bier.medium.com/whats-a-high-performance-organization-eb0dd664af4d)
+- [Where Freemium Thrives and Dies](https://productled.com/freemium-business-model/)
+- [Product-led Growth Companies: A Framework for Prioritization](https://productled.com/blog/plg-framework-for-success/)
+
+# Teams
+
+- [The playbook for hiring the right marketer at the right time for your startup](https://review.firstround.com/the-playbook-for-hiring-the-right-marketer-at-the-right-time-for-your-startup)
+- [The Startup Org Chart from Founding to IPO](https://theorg.com/insights/the-startup-org-chart-from-founding-to-ipo)
+- [Leaders Whose Time Has Passed](https://staysaasy.com/management/2021/08/06/Transient-Executives.html)
+- [Your Marketing Org is Slow. Here’s a Framework to Move Faster](https://review.firstround.com/your-marketing-org-is-slow-heres-a-framework-to-move-faster)
+- [All your VPs really need to do is tilt the curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
+- [How the Best CEOs Use ‘Thinking Time’](https://openviewpartners.com/blog/ceo-thinking-time) (⭐)
+- [How to Get Started with Agile Marketing](https://blog.hubspot.com/marketing/agile-marketing)
+- [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
+- [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
 
 
-
-## Tools
+# Tools
 
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
+- [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
 
-## Tweets
+
+# Tweets
 
 - [When doing customer research, don't ask your customer for their OPINION — get them to tell you STORIES.](https://twitter.com/KateBour/status/1292101482293211137)
 - [Top Marketers in SaaS](https://twitter.com/coreyhainesco/status/1304794143063826432)
@@ -265,3 +264,24 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The top 0.1% of marketing mental models.](https://twitter.com/george__mack/status/1391824470977941516)
 - [SEO is the magic ingredient behind billion-dollar companies](https://twitter.com/searchbrat/status/1391043242901262343) (⭐)
 - [Long list of free and paid Marketing tools](https://twitter.com/CJ_250marketing/status/1379195336099385344)
+- [7 ways to get attention for your product](https://twitter.com/lennysan/status/1447932659905318925) (⭐)
+- [An intro to startup growth](https://twitter.com/Julian/status/1445282615972429827) (⭐)
+- [How to pick a North Star metric](https://twitter.com/shreyas/status/1441866360313634823)
+- [How Freshboards doubled their traffic in 3 months pre-IPO](https://twitter.com/RyanMcCready1/status/1448335054598508549)
+
+
+# Others
+
+- [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
+- [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
+- [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
+- [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
+- [Books people (re)read](https://rauchg.com/2020/books-people-reread)
+- [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew) (⭐)
+- [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
+- [Your website is your most important marketing asset. Here's how to build it right the 1st time.](https://mkt1.substack.com/p/your-website-is-your-most-important)
+- [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
+- [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
+- [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
+- [Keep Them Coming Back: 23 Habit-Making Insights for Product-Minded Founders](https://www.nfx.com/post/keep-them-coming-back/)
+- [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
