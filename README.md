@@ -206,6 +206,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What’s A High Performance Organization?](https://rob-bier.medium.com/whats-a-high-performance-organization-eb0dd664af4d)
 - [Where Freemium Thrives and Dies](https://productled.com/freemium-business-model/)
 - [Product-led Growth Companies: A Framework for Prioritization](https://productled.com/blog/plg-framework-for-success/)
+- [Six rules of hiring for growth](https://www.lennysnewsletter.com/p/hiring-growth) (⭐)
 
 # Teams
 
