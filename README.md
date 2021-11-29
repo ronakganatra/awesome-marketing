@@ -213,6 +213,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Where Freemium Thrives and Dies](https://productled.com/freemium-business-model/)
 - [Product-led Growth Companies: A Framework for Prioritization](https://productled.com/blog/plg-framework-for-success/)
 - [Six rules of hiring for growth](https://www.lennysnewsletter.com/p/hiring-growth) (⭐)
+- [Scaling to $100 Million - The definitive benchmarking report on how cloud companies grow operationally efficient businesses and scale to $100 million in ARR (and beyond)](https://www.bvp.com/atlas/scaling-to-100-million)
 
 # Teams
 
