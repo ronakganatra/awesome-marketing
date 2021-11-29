@@ -69,6 +69,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Visual Hierarchy: A 2021 Optimization Guide For Marketers](https://unbounce.com/landing-pages/visual-hierarchy/)
 - [Knowing when to use "How to" versus "Why to" content](https://www.linkedin.com/pulse/how-versus-why-content-customer-success-shareil-nariman/)
 - [The four forces of bad content](https://www.animalz.co/blog/bad-content/)
+- [Content marketing for founding teams](https://www.notion.so/Content-marketing-for-founding-teams-fd1c96b0ef9840b29088b5385603ff12)
 - [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 
 # CRM
@@ -115,6 +116,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Why most analytics efforts fail](https://www.reforge.com/blog/why-most-analytics-efforts-fail)
 - [How to (Actually) Calculate CAC](https://andrewchen.com/how-to-actually-calculate-cac/)
 - [How to Build and Optimize CTA Buttons That Convert](https://unbounce.com/conversion-rate-optimization/cta-buttons-that-convert/)
+- [Acquisition Channel Opportunities: Meta, Discord App Store, Spotify Podcasts](https://www.indiehackers.com/post/acquisition-channel-opportunities-meta-discord-app-store-spotify-podcasts-69c6459da0)
+- [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 
 
 # Podcasts
@@ -140,6 +143,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to build a successful Go To Market Strategy](https://www.process.st/go-to-market-strategy/)
 - [Community-Led Growth: The Product-Led Growth Expansion Pack](https://corinneriley.medium.com/community-led-growth-the-product-led-growth-expansion-pack-b474ab9a7940) (⭐)
 - [Coming for the Content, Staying for the Community” Started With Video Games (Or Maybe Religion?) But Will Define Media This Decade](https://hunterwalk.medium.com/coming-for-the-content-staying-for-the-community-started-with-video-games-or-maybe-religion-5083f3773a2)
+- [Online communities at every stage of the startup journey](https://gummysearch.com/insights/online-communities/)
 - [Ways to think about customer onboarding](https://www.intercom.com/blog/videos/ways-to-think-about-customer-onboarding/)
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
@@ -176,6 +180,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
 - [25 Growth Strategies](https://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/)
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
+- [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
+- [How marketing sneakily affects our decision-making](https://memod.com/MrBusiness/how-does-marketing-affect-our-decision-making-629)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 - [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
 - [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
@@ -272,6 +278,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [An intro to startup growth](https://twitter.com/Julian/status/1445282615972429827) (⭐)
 - [How to pick a North Star metric](https://twitter.com/shreyas/status/1441866360313634823)
 - [How Freshboards doubled their traffic in 3 months pre-IPO](https://twitter.com/RyanMcCready1/status/1448335054598508549)
+- [The best marketing doesn't look like marketing](https://twitter.com/george__mack/status/1461454197698662402?s=20)
 
 
 # Others
@@ -281,11 +288,16 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
 - [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
+- [Stop Letting OKRs Masquerade as Strategy](https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915)
 - [Welcome to your bland new world](https://www.bloomberg.com/opinion/articles/2020-09-07/welcome-to-your-bland-new-world-of-consumer-capitalism?utm_source=morning_brew) (⭐)
 - [How to Tackle SaaS Homepage Design for Your B2B SaaS Company](https://www.poweredbysearch.com/blog/b2b-saas-homepage-design/)
 - [Your website is your most important marketing asset. Here's how to build it right the 1st time.](https://mkt1.substack.com/p/your-website-is-your-most-important)
 - [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
 - [How to calculate and implement value-based pricing](https://paddle.com/blog/how-to-calculate-implement-value-based-pricing/)
 - [Product Validation Frameworks are Mostly Useless Without Taste](https://commoncog.com/blog/product-validation-taste/)
+- [What to look for when you're hiring a Head of Growth](https://andrewchen.com/hiring-head-of-growth/)
+- [Why millennial managers are burned out](https://www.bbc.com/worklife/article/20211109-why-millennial-managers-are-burned-out)
 - [Keep Them Coming Back: 23 Habit-Making Insights for Product-Minded Founders](https://www.nfx.com/post/keep-them-coming-back/)
+- [37 Tasks Every Marketer Should Automate](https://blog.hubspot.com/marketing/tasks-every-marketer-should-automate)
+- [Annual Planning is Killing Your Growth – Try This Plan Instead](https://review.firstround.com/Annual-Planning-is-Killing-Your-Growth-Try-This-Instead)
 - [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
