@@ -280,6 +280,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to pick a North Star metric](https://twitter.com/shreyas/status/1441866360313634823)
 - [How Freshboards doubled their traffic in 3 months pre-IPO](https://twitter.com/RyanMcCready1/status/1448335054598508549)
 - [The best marketing doesn't look like marketing](https://twitter.com/george__mack/status/1461454197698662402?s=20)
+- [30 Things You Can Do To Improve Your Marketing Right Now](https://twitter.com/iammarcthomas/status/1471849622544916482)
+- [Blueprint to Optimize Landing Pages](https://twitter.com/alexgarcia_atx/status/1467534440884846598)
 
 
 # Others
@@ -302,3 +304,4 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [37 Tasks Every Marketer Should Automate](https://blog.hubspot.com/marketing/tasks-every-marketer-should-automate)
 - [Annual Planning is Killing Your Growth – Try This Plan Instead](https://review.firstround.com/Annual-Planning-is-Killing-Your-Growth-Try-This-Instead)
 - [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
+- [Personalization Case Studies from Ninetailed](https://www.personalizationdecoded.com/)
