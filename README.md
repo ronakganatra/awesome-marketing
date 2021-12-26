@@ -56,6 +56,9 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Fractl Earned Links from 931 Unique Domains for Porch.com in a Single Year](http://www.frac.tl/work/content-marketing-case-studies/porch/)
 - [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
 - [Grubhub's link building strategy](https://marketingexamples.com/seo/grubhub-link-building)
+- [You can't win - How Freshworks rewrote the traditional SaaS growth playbook](https://kylepoyar.substack.com/p/you-cant-win)
+- [When Multi-level Marketing Met GenZ](https://www.theatlantic.com/technology/archive/2021/11/breakaway-movement-gen-z-multilevel-marketing/620592/)
+- [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://tomtunguz.com/claire-hughes-johnson-notes/)
 
 
 # Content Marketing
@@ -156,6 +159,9 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Buyer Intent Playbook: How Marketers Can Utilize Intent Data](https://learn.g2.com/buyer-intent-playbook-marketing)
 - [Product-Led Growth Tech Stack: 199 SaaS tools for growth](https://productled.com/blog/product-led-growth-tech-stack/)
 - [Crash Course in Marketing Goal Setting](https://mkt1.substack.com/p/goals) (⭐)
+- [You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
+- [How to Create a Product Content Strategy](https://www.departmentofproduct.com/blog/how-to-create-a-product-content-strategy/) (⭐)
+- [A Founder's Guide to Community](https://www.lennysnewsletter.com/p/building-community)
 
 
 # SEO
@@ -215,6 +221,9 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Product-led Growth Companies: A Framework for Prioritization](https://productled.com/blog/plg-framework-for-success/)
 - [Six rules of hiring for growth](https://www.lennysnewsletter.com/p/hiring-growth) (⭐)
 - [Scaling to $100 Million - The definitive benchmarking report on how cloud companies grow operationally efficient businesses and scale to $100 million in ARR (and beyond)](https://www.bvp.com/atlas/scaling-to-100-million)
+- [When and How to Take Big Swings](https://www.reforge.com/blog/taking-big-swings)
+- [The Best Way to Set Marketing Priorities and Smash Your Goals](https://coschedule.com/blog/marketing-priorities)
+- 
 
 # Teams
 
@@ -306,3 +315,5 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Annual Planning is Killing Your Growth – Try This Plan Instead](https://review.firstround.com/Annual-Planning-is-Killing-Your-Growth-Try-This-Instead)
 - [Creating the Ideal Customer Profile as a Startup: A Step-by-step Guide](https://baremetrics.com/blog/creating-the-ideal-customer-profile-as-a-startup-a-step-by-step-guide)
 - [Personalization Case Studies from Ninetailed](https://www.personalizationdecoded.com/)
+- [Persistence and predictability of SaaS growth](https://medium.com/point-nine-news/persistence-and-predictability-of-saas-growth-bd7b90ee20d3)
+- [The Decision Making Pendulum](https://candost.blog/the-decision-making-pendulum/)
