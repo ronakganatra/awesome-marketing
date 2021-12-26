@@ -71,6 +71,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The four forces of bad content](https://www.animalz.co/blog/bad-content/)
 - [Content marketing for founding teams](https://www.notion.so/Content-marketing-for-founding-teams-fd1c96b0ef9840b29088b5385603ff12)
 - [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
+- [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
 
 # CRM
 
