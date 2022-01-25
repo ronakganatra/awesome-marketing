@@ -219,7 +219,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Scaling to $100 Million - The definitive benchmarking report on how cloud companies grow operationally efficient businesses and scale to $100 million in ARR (and beyond)](https://www.bvp.com/atlas/scaling-to-100-million)
 - [When and How to Take Big Swings](https://www.reforge.com/blog/taking-big-swings)
 - [The Best Way to Set Marketing Priorities and Smash Your Goals](https://coschedule.com/blog/marketing-priorities)
-- 
+- [Marketing is Everything](https://hbr.org/1991/01/marketing-is-everything)
+- [How to accelerate growth in 2022](https://kylepoyar.substack.com/p/how-to-accelerate-growth-in-2022)
 
 # Teams
 
