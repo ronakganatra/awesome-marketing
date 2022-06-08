@@ -52,9 +52,15 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Fractl Earned Links from 931 Unique Domains for Porch.com in a Single Year](http://www.frac.tl/work/content-marketing-case-studies/porch/)
 - [How Airtable’s Long Tail SEO Strategy Is Helping Build Their Moat](https://foundationinc.co/lab/long-tail-seo-strategy/) (⭐)
 - [Grubhub's link building strategy](https://marketingexamples.com/seo/grubhub-link-building)
+- [How Monday.com Scaled to $5.7B in Market Cap](https://twitter.com/thecoolestcool/status/1502139246827683841)
 - [You can't win - How Freshworks rewrote the traditional SaaS growth playbook](https://kylepoyar.substack.com/p/you-cant-win)
+- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
 - [When Multi-level Marketing Met GenZ](https://www.theatlantic.com/technology/archive/2021/11/breakaway-movement-gen-z-multilevel-marketing/620592/)
 - [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://tomtunguz.com/claire-hughes-johnson-notes/)
+- [Stripe's model of product-led, developer-centric growth.](https://lethain.com/stripe-product-led-developer-centric-growth/)
+- [How Segment Scaled - from 300% to 40% to 100% YoY Growth](https://twitter.com/reinpk/status/1485608412683509764)
+- [How Ikea tweaked its products to woo India's shoppers](https://www.bbc.com/news/world-asia-india-60256867)
+- [How the MVPs of the billion dollar businesses got their first 1,000 customers](https://startupwin.kelsus.com/p/9-ways-to-gauge-market-demand-for?s=r)
 
 
 # Content Marketing
@@ -62,6 +68,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Kevin Indig's 2020 Roundup](https://airtable.com/shrSZRDaZ6VcPZSR7/tblO6IGBOmYbuH9FL?backgroundColor=yellow&viewControls=on) - An Airtable of 225 bookmarks from 2020
 - [How Morning Brew's referral program built an audience of 1.5 million subscribers](https://medium.com/the-mission/how-morning-brews-referral-program-built-an-audience-of-1-5-million-subscribers-3315482c1aa5)
 - [Content Driven Growth](https://www.lennysnewsletter.com/p/content-driven-growth-strategy) - A great writeup on Content Driven Growth from Lenny's Newsletter, focusing on Hubspot, aHrefs, Intercom, and Slidebean (⭐)
+- [SaaS content marketing: The ultimate (but simple) guide](https://www.marketermilk.com/blog/saas-content-marketing)
 - [Acquisition Channel Opportunities](https://www.indiehackers.com/post/acquisition-channel-opportunities-content-marketing-google-sheets-fake-reviews-0371eb1356)
 - ["Mirage Content" Is the Reason Your Company Blog Isn’t Generating Leads](https://growandconvert.com/content-marketing/mirage-content/)
 - [100m Posts Analyzed: What You Need To Write The Best Headlines](https://buzzsumo.com/resources/hundred-million-best-headlines-study/view/)
@@ -71,6 +78,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Content marketing for founding teams](https://www.notion.so/Content-marketing-for-founding-teams-fd1c96b0ef9840b29088b5385603ff12)
 - [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 - [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
+- [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
 
 # CRM
 
@@ -118,6 +126,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to Build and Optimize CTA Buttons That Convert](https://unbounce.com/conversion-rate-optimization/cta-buttons-that-convert/)
 - [Acquisition Channel Opportunities: Meta, Discord App Store, Spotify Podcasts](https://www.indiehackers.com/post/acquisition-channel-opportunities-meta-discord-app-store-spotify-podcasts-69c6459da0)
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
+- [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
 
 
 # Podcasts
@@ -146,6 +155,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Online communities at every stage of the startup journey](https://gummysearch.com/insights/online-communities/)
 - [Ways to think about customer onboarding](https://www.intercom.com/blog/videos/ways-to-think-about-customer-onboarding/)
 - [Community First, Product Second](https://www.producthunt.com/stories/community-first-product-second)
+- [The Right Way to do a Competitor Analysis for a New Product Category](https://arunsureshwrites.medium.com/the-right-way-to-do-a-competitor-analysis-for-a-new-product-category-cca37f289474)
 - [Getting better at Community Building, one habit at a time](https://rosie.land/posts/getting-better-at-community-building-one-tiny-habit-at-a-time) (⭐)
 - [A Guide to B2B SaaS Product Onboarding](https://arrows.to/resources/onboarding-101/) (⭐)
 - [Relationship First Management](https://worklifenotes.com/2021/06/09/relationship-first-management/)
@@ -158,6 +168,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [You Can't Buy Integration](https://martinfowler.com/articles/cant-buy-integration.html)
 - [How to Create a Product Content Strategy](https://www.departmentofproduct.com/blog/how-to-create-a-product-content-strategy/) (⭐)
 - [A Founder's Guide to Community](https://www.lennysnewsletter.com/p/building-community)
+- [How to Build a Product-Led Growth Strategy](https://productled.com/blog/product-led-growth-strategy-playbook/)
 
 
 # SEO
@@ -176,19 +187,36 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
 - [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
 - [Mapping the Insights that Drive Startup Ideas & Theses](https://newsletter.sandhill.io/p/insights-that-drive-ideation)
+- [Offer-led Growth](https://www.indiehackers.com/post/offer-led-growth-d75d74ebdb)
+- [Why You Don’t Need to be “Enterprise-Ready” or “Scalable” as Yet and Other Notes on Crafting B2B Software with Contenda’s Founder, Lilly Chen](https://www.gorelay.co/t/why-you-don-t-need-to-be-enterprise-ready-or-scalable-as-yet-and-other-notes-on-crafting-b2b-software-with-contenda-s-founder-lilly-chen/743)
+- [SaaS Growth Strategy — Step-by-Step Worksheet](https://medium.com/@StartupBusinesstips/saas-growth-strategy-guide-8bc6cd82f048)
+- [If we can make a product work for *anyone*, it usually works better for *everyone*](https://amivora.substack.com/p/if-we-can-make-a-product-work-for?s=r)
+- [Seven Legends of Leverage](https://www.ejorgenson.com/blog/seven-legends-of-leverage)
+- [Your North Star](https://naomi.com/your-northstar-6981d6cef970)
+- [9 Ways to gauge market demand for your startup](https://startupwin.kelsus.com/p/9-ways-to-gauge-market-demand-for?s=r)
+- [How to know when to pivot?](https://www.indiehackers.com/post/how-to-know-when-to-pivot-380909400b)
+- [Founders should think about channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 
 # Marketing Strategy and Growth
 
 - [Difference between SLG, MLG, and PLG](https://blog.close.com/product-led-sales-led-marketing-led/)
+- [The Ultimate Growth Strategy Guide: 26 Growth Strategy Techniques from 7 Tech Startups](https://totempool.com/blog/growth-strategy/)
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
 - [25 Growth Strategies](https://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/)
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
+- [This marketing strategy actually made me happier](https://www.indiehackers.com/post/this-marketing-strategy-actually-made-me-happier-320c36a798)
+- [How to Run a Growth Experiment - Learn the 4 Steps](https://mannhowie.com/growth-experiment)
+- [Metrics to focus on before and after product/market fit. How to better understand your product at different stages?](https://gopractice.io/product/metrics-to-focus-on-before-and-after-product-market-fit-how-to-better-understand-your-product-at-different-stages/)
+- [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
+- [Introducing enterprise sales to a product-led growth organization](https://www.bvp.com/atlas/introducing-enterprise-sales-to-a-product-led-growth-organization)
 - [The SaaS Metrics That Matter](https://sacks.substack.com/p/the-saas-metrics-that-matter)
 - [How marketing sneakily affects our decision-making](https://memod.com/MrBusiness/how-does-marketing-affect-our-decision-making-629)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
+- [How to Master Product Virality](https://productled.com/blog/product-virality/)
 - [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
+- [Hyper-growth is great, but don’t die while trying](https://medium.com/point-nine-news/hyper-growth-is-great-but-dont-die-while-trying-3b5125a79135)
 - [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
-- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
+- [Growth vs Profitability](https://www.zacksiri.com/growth-vs-profitability/)
 - [11 Channels that consistently work](https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03)
 - [Improving Your SaaS' Free to Paid Conversion Rate](https://www.forgetthefunnel.com/resources/saas-free-to-paid-conversion-rate)
 - [Don't Let Your North Star Metric Deceive You](https://www.reforge.com/blog/north-star-metric-growth) (⭐)
@@ -201,6 +229,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to use FOMO to Increase Conversions](https://www.smashingmagazine.com/2019/11/fomo-increase-conversions/)
 - [How Amazon Built It's Growth Ecosystem](https://growthhackers.com/growth-studies/how-amazon-built-its-growth-ecosystem)
 - [International Growth is no longer optional for SaaS Companies](https://openviewpartners.com/blog/international-growth-saas/)
+- [Do Your Marketing Metrics Show You the Full Picture?](https://hbr.org/2022/04/do-your-marketing-metrics-show-you-the-full-picture)
 - [The three types of “good” onboarding friction](https://www.productled.org/blog/three-types-good-onboarding-friction)
 - [Designing for Buying: How to Break Through the Ceiling in Product-Led Growth](https://sarahguo.com/blog/designing-for-buying)
 - [Why Your Marketing Strategy Needs a Conversion Funnel](https://unbounce.com/campaign-strategy/conversion-funnel/)
@@ -221,8 +250,13 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Best Way to Set Marketing Priorities and Smash Your Goals](https://coschedule.com/blog/marketing-priorities)
 - [Marketing is Everything](https://hbr.org/1991/01/marketing-is-everything)
 - [How to accelerate growth in 2022](https://kylepoyar.substack.com/p/how-to-accelerate-growth-in-2022)
+- [What is Hypergrowth?](https://www.drift.com/blog/what-is-hypergrowth/)
+- [Product Driven Vs. Customer Driven](https://www.ribbonfarm.com/2014/04/24/product-driven-versus-customer-driven/)
+- [Traditional B2B Sales and Marketing are Becoming Obsolete](Traditional B2B Sales and Marketing Are Becoming Obsolete)
+- [Exponential Growth Isn’t Cool. Combinatorial Explosion Is](https://www.torbair.com/blog/2015/12/26/4mvxoio4tc8j28reqsbz449tlab4ss)
+- [High Output Marketing](https://www.positivehuman.co/articles/high-output-marketing)
 
-# Teams
+# Teams, Leadership, and Management
 
 - [The playbook for hiring the right marketer at the right time for your startup](https://review.firstround.com/the-playbook-for-hiring-the-right-marketer-at-the-right-time-for-your-startup)
 - [The Startup Org Chart from Founding to IPO](https://theorg.com/insights/the-startup-org-chart-from-founding-to-ipo)
@@ -234,6 +268,20 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
 - [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
 - [Here's How Google Knows in Less Than 5 Minutes if a New Employee Will Get Off to the Perfect Start](https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-a-new-employee-will-get-off-to-perfect-start.html) (⭐)
+- [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)
+- [Managing people 🤯](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+- [The power of Amazon's written Narratives](https://www.sachinrekhi.com/colin-bryar-working-backwards)
+- [What are your company's anti-values?](https://willsewell.com/posts/2022-02-15-what-are-your-companys-anti-values.html)
+- [The People Roadmap for Startups](https://tomtunguz.com/architecting-teams/)
+- [GET YOUR OKRS OUT OF MY GEMS](https://kathkeating.com/get-your-okrs-out-of-my-gems/)
+- [This Is What Happens When There Are Too Many Meetings](https://www.theatlantic.com/newsletters/archive/2022/04/triple-peak-day-work-from-home/629457/)
+- [Managing Your Mental Health While Running a Startup](https://future.com/managing-your-mental-health-while-running-a-startup/)
+- [Ditch Your To-Do List and Use These Docs To Make More Impact](https://review.firstround.com/ditch-your-to-do-list-and-use-these-docs-to-make-more-impact)
+- [Ask HN: I burned out but I don't want to let my team down](https://news.ycombinator.com/item?id=31072465)
+- [103 Bits of Advice I Wish I Had Known](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+- [Genuine VS toxic positivity in language: communicating with empathy](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
+- [28% of people quit because of bad managers: The best way to confront your boss before it’s too late](https://www.cnbc.com/2022/05/25/how-to-handle-a-difficult-boss.html)
+- [If you feel Stuck, Read this (Everyday)](https://twitter.com/PhilOfLife_/status/1528710150009364481)
 
 
 # Tools
@@ -289,11 +337,16 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The best marketing doesn't look like marketing](https://twitter.com/george__mack/status/1461454197698662402?s=20)
 - [30 Things You Can Do To Improve Your Marketing Right Now](https://twitter.com/iammarcthomas/status/1471849622544916482)
 - [Blueprint to Optimize Landing Pages](https://twitter.com/alexgarcia_atx/status/1467534440884846598)
+- [The "Why Now?" of Startups](https://twitter.com/ashleymayer/status/1490724881952038918)
+- [Is Your Startup on Fire?](https://twitter.com/immad/status/1492963839071055875)
+- [Customers don't care about how novel your startup is](https://twitter.com/levie/status/1508968954043113474)
+- [How to bring Fintech products to market faster](https://twitter.com/rohitdotmittal/status/1508515492537016321)
 
 
 # Others
 
 - [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
+- [Bottlenecks of Startups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)
 - [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
 - [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
 - [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
@@ -314,3 +367,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Personalization Case Studies from Ninetailed](https://www.personalizationdecoded.com/)
 - [Persistence and predictability of SaaS growth](https://medium.com/point-nine-news/persistence-and-predictability-of-saas-growth-bd7b90ee20d3)
 - [The Decision Making Pendulum](https://candost.blog/the-decision-making-pendulum/)
+- [30 Years of dodging repetitive work with automation](https://www.tines.com/blog/my-thirty-years-of-dodging-repetitive-work-with-automation-tools)
+- [The Company-Building Cornerstones Every Founder Needs to Focus On](https://review.firstround.com/the-company-building-cornerstones-every-founder-needs-to-focus-on-advice-from-hubspots-dharmesh-shah)
+- [Early-stage marketing compensation explained](https://mkt1.substack.com/p/marketing-compensation?s=r)
+- [Focus is king, do not waste it](https://www.indiehackers.com/post/focus-is-king-do-not-waste-it-b5997ed2e8)
+- [39 Moves to Survive (& Thrive) in a Downturn: 2022 Edition](https://www.nfx.com/post/39-moves-survive-thrive-downturn)
