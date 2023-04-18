@@ -42,6 +42,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Case Studies
 
+- [Four Category Making Case Studies](https://clearpurpose.media/four-category-making-case-studies-1270fee6a53e)
 - [WhatsApp, The Anti-Marketing Growth Phenomenon](https://community.growthhackers.com/posts/whatsapp-the-anti-marketing-growth-phenomenon)
 - [Duolingo, The antithesis to the bazaar](https://nibnalin.me/dust-nib/duolingo-the-antithesis-to-the-bazaar.html)
 - [The SEO-driven user acquisition behind Zapier's growth to $35M ARR](https://www.reforge.com/brief/the-seo-driven-user-acquisition-behind-zapier-s-growth-to-35m-arr#mRAkHHpXXWEKLo3aqVW-MQ)
@@ -79,6 +80,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [17 tips for great copywriting](https://marketingexamples.com/copywriting/tips)
 - [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
 - [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
+- [Elon Musk's Storytelling Framework](https://noise.beehiiv.com/p/elon-musks-storytelling-framework)
 
 # CRM
 
@@ -127,6 +129,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Acquisition Channel Opportunities: Meta, Discord App Store, Spotify Podcasts](https://www.indiehackers.com/post/acquisition-channel-opportunities-meta-discord-app-store-spotify-podcasts-69c6459da0)
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 - [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
+- [A lesson from a DTC marketer to a B2B marketer](https://michaellorenzos.com/p/a-lesson-from-a-dtc-marketer-to-a)
 
 
 # Podcasts
@@ -282,6 +285,9 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Genuine VS toxic positivity in language: communicating with empathy](https://readable.com/blog/genuine-vs-toxic-positivity-in-language-communicating-with-empathy/)
 - [28% of people quit because of bad managers: The best way to confront your boss before it’s too late](https://www.cnbc.com/2022/05/25/how-to-handle-a-difficult-boss.html)
 - [If you feel Stuck, Read this (Everyday)](https://twitter.com/PhilOfLife_/status/1528710150009364481)
+- [A Recipe to Grow Leverage](https://productlife.to/p/a-recipe-to-grow-leverage)
+- [Annual planning is a colossal waste of time](https://www.fishmanafnewsletter.com/p/annual-planning-is-a-waste-of-time)
+- [Owner economics and Strategy](https://rogermartin.medium.com/owner-economics-strategy-37a02f4a34e3)
 
 
 # Tools
