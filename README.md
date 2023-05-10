@@ -68,6 +68,17 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Segment Scaled - from 300% to 40% to 100% YoY Growth](https://twitter.com/reinpk/status/1485608412683509764)
 - [How Ikea tweaked its products to woo India's shoppers](https://www.bbc.com/news/world-asia-india-60256867)
 - [How the MVPs of the billion dollar businesses got their first 1,000 customers](https://startupwin.kelsus.com/p/9-ways-to-gauge-market-demand-for?s=r)
+- [IKEA x India — A Research Case Study](https://bootcamp.uxdesign.cc/ikea-x-india-a-research-case-study-c73ac608c08b)
+- [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
+- [What is Product-Led Growth? The case of EasyBON](https://medium.com/@cesar_miguel/what-is-product-led-growth-the-case-of-easybon-2b080e1ee8b7)
+- [Content(ful) is King](https://www.topofthelyne.co/p/contentful-is-king)
+- [Starting from zero](https://productlessons.substack.com/p/starting-from-zero)
+- [Your guide to PLG + enterprise - Inside Similarweb’s $190M growth engine and how PLG unlocks Enterprise customers](https://kylepoyar.substack.com/p/your-guide-to-plg-enterprise)
+- [Amazon’s Guide To Marketing Psychology](https://bettermarketing.pub/amazons-guide-to-marketing-psychology-75b68223551)
+- [How Notion Grows](https://uxplanet.org/how-notion-grows-5cf152e81e46)
+- [How Apple Mastered a 100-Year-Old Strategy Used to Sell Beer](https://bettermarketing.pub/how-apple-mastered-a-100-year-old-strategy-used-to-sell-beer-36b7d1360ed8)
+- [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
+- [How Shopify Grows](https://www.howtheygrow.co/p/how-shopify-grows)
 
 
 # Content Marketing
@@ -205,6 +216,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to gauge market demand for your startup](https://startupwin.kelsus.com/p/9-ways-to-gauge-market-demand-for?s=r)
 - [How to know when to pivot?](https://www.indiehackers.com/post/how-to-know-when-to-pivot-380909400b)
 - [Founders should think about channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
+- [Your northstar metric may be broken 🛠](https://shorts.growthx.club/p/your-northstar-metric-may-be-broken)
 
 # Marketing Strategy and Growth
 
@@ -243,6 +255,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Designing for Buying: How to Break Through the Ceiling in Product-Led Growth](https://sarahguo.com/blog/designing-for-buying)
 - [Why Your Marketing Strategy Needs a Conversion Funnel](https://unbounce.com/campaign-strategy/conversion-funnel/)
 - [How People Discover New Products](https://www.lennysnewsletter.com/p/how-people-discover-new-products) (⭐)
+- [How to Measure “Hard-to-Measure” Marketing Channels](https://sparktoro.com/blog/how-to-measure-hard-to-measure-marketing-channels)
 - [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
 - [3 Unusual Drivers of Early-Stage Growth](https://openviewpartners.com/blog/drivers-early-stage-growth/)
 - [The 6 Patterns Of Uncommonly Successful Teams](https://www.nfx.com/post/patterns-of-uncommonly-successful-teams/) (⭐)
@@ -264,6 +277,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Traditional B2B Sales and Marketing are Becoming Obsolete](Traditional B2B Sales and Marketing Are Becoming Obsolete)
 - [Exponential Growth Isn’t Cool. Combinatorial Explosion Is](https://www.torbair.com/blog/2015/12/26/4mvxoio4tc8j28reqsbz449tlab4ss)
 - [High Output Marketing](https://www.positivehuman.co/articles/high-output-marketing)
+- [Taking Your Customer’s Side Is The Most Underrated Growth Hack](https://entrepreneurshandbook.co/taking-your-customers-side-is-the-most-underrated-growth-hack-6e216516e9f)
+- [Trendjacking Without the Cringe](https://sparktoro.com/blog/trendjacking-without-the-cringe/)
 
 # Teams, Leadership, and Management
 
@@ -277,8 +292,10 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers) (⭐)
 - [20 Technical Skills Every Marketer Needs](https://blog.hubspot.com/marketing/technical-skills)
 - [Here's How Google Knows in Less Than 5 Minutes if a New Employee Will Get Off to the Perfect Start](https://www.inc.com/jeff-haden/heres-how-google-knows-in-less-than-5-minutes-if-a-new-employee-will-get-off-to-perfect-start.html) (⭐)
+- [How To Be Assertive At Work Without Being a Jackass](https://bootcamp.uxdesign.cc/how-to-be-assertive-at-work-without-being-a-jackass-1bcc9ad3c119)
 - [Heuristics That Almost Always Work](https://astralcodexten.substack.com/p/heuristics-that-almost-always-work?s=r)
 - [Managing people 🤯](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+- [The Best Leaders in the World Are “Quiet Managers”](https://medium.com/swlh/the-best-leaders-in-the-world-are-quiet-managers-8bcc575d74ec)
 - [The power of Amazon's written Narratives](https://www.sachinrekhi.com/colin-bryar-working-backwards)
 - [What are your company's anti-values?](https://willsewell.com/posts/2022-02-15-what-are-your-companys-anti-values.html)
 - [The People Roadmap for Startups](https://tomtunguz.com/architecting-teams/)
@@ -294,6 +311,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [A Recipe to Grow Leverage](https://productlife.to/p/a-recipe-to-grow-leverage)
 - [Annual planning is a colossal waste of time](https://www.fishmanafnewsletter.com/p/annual-planning-is-a-waste-of-time)
 - [Owner economics and Strategy](https://rogermartin.medium.com/owner-economics-strategy-37a02f4a34e3)
+- [What Happens When Stress Runs in Your Team](https://ivonahirschi.medium.com/what-happens-when-stress-runs-in-your-team-eb7108df566a)
 
 
 # Tools
@@ -358,9 +376,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 # Others
 
 - [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
+- [The mental models of Chinese tech](https://lillianli.substack.com/p/the-mental-models-of-chinese-tech)
 - [Bottlenecks of Startups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)
 - [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
 - [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
+- [Your Pricing Should Be Free or Ultra Expensive (And What To Do If It’s Stuck In The Middle)](https://nicolascole77.medium.com/your-pricing-should-be-free-or-ultra-expensive-and-what-to-do-if-its-stuck-in-the-middle-126d2248a674)
 - [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
 - [Stop Letting OKRs Masquerade as Strategy](https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915)
@@ -384,3 +404,4 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Early-stage marketing compensation explained](https://mkt1.substack.com/p/marketing-compensation?s=r)
 - [Focus is king, do not waste it](https://www.indiehackers.com/post/focus-is-king-do-not-waste-it-b5997ed2e8)
 - [39 Moves to Survive (& Thrive) in a Downturn: 2022 Edition](https://www.nfx.com/post/39-moves-survive-thrive-downturn)
+- [What to do Next When You Have a Business Idea?](https://blog.startupstash.com/what-to-do-next-when-you-have-a-business-idea-7f94ca5db844)
