@@ -1,16 +1,14 @@
 ![Awesome Marketing](https://media.giphy.com/media/E47JKwZnxvHuPjPkn1/giphy.gif)
 
-A living document of hand-picked resources for marketers (or, I bookmark too many things to read and forget which folder they're in).
+A living document of hand-picked resources for marketers (or, I bookmark too many things to read and forget which folder they're in). I also have another list of [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) resources.
 
 If you're in B2D or actively marketing to developers and want to join a likeminded group of people, check out the [Developer Marketing Community](https://marketingto.dev/) I'm co-building.
 
-I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online.
+I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online. Join the waitlist 👇
+
+[<img src="https://raw.githubusercontent.com/ronakganatra/ronakganatra/master/Waitlist%20Banner.png">](https://savepad.app)
 
 If you found this list helpful, tweet it to let other marketers find it!
-
-🚧 Very much still a work in progress 🚧
-
-I also have another list of [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) resources.
 
 Why am I turning my bookmarks into a public repo? The problem with marketing related content online is that it's 99% crap and fluff. I try to read a lot and save my resources. So I thought I might as well make it public, so you can save yourself some time trying to find things worth reading.
 
