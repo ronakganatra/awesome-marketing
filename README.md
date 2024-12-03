@@ -20,6 +20,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Sixteen Ventures](https://sixteenventures.com/) - Sales acceleration and growth marketing posts
 - [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business (⭐)
 - [Better Marketing](https://medium.com/better-marketing)
+- [Publish7 AI Agents](https://blog.publish7.com/) - Growth and SEO articles
 
 # Books
 
