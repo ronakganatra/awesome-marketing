@@ -20,6 +20,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Sixteen Ventures](https://sixteenventures.com/) - Sales acceleration and growth marketing posts
 - [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business (⭐)
 - [Better Marketing](https://medium.com/better-marketing)
+- [OnRanko](https://Onranko.com) - Create professional blog images.
+  
 
 # Books
 
@@ -199,6 +201,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
+- [OnRanko](https://Onranko.com) - SEO AI Agents for digital marketing.
 
 # Startups & Getting Started
 
