@@ -202,7 +202,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - - [Citedify](https://www.citedify.com/) - Track your brand's visibility in AI search engines (ChatGPT, Claude, Perplexity, Google AI). Get an AI Visibility Score and actionable roadmap for GEO (Generative Engine Optimization) (🔥)
 
-# Startups & Getting Started
+# artups & Getting Started
 
 - [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
 - [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
