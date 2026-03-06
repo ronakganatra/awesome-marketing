@@ -313,6 +313,13 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What Happens When Stress Runs in Your Team](https://ivonahirschi.medium.com/what-happens-when-stress-runs-in-your-team-eb7108df566a)
 
 
+# Lead Generation & Event Marketing
+
+- [Awesome Trade Shows](https://github.com/LensmorOfficial/awesome-trade-shows) - A curated list of top global trade shows for B2B lead generation
+- [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach
+- [Exhibitor Intelligence Playbook](https://github.com/LensmorOfficial/exhibitor-intelligence-playbook) - A complete playbook on how to extract and evaluate leads from trade shows
+
+
 # Tools
 
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
