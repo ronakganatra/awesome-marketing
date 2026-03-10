@@ -315,6 +315,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Tools
 
+- [Contractor Marketing Toolkit](https://github.com/Mikebutts20/contractor-marketing-toolkit) - Free, open-source marketing templates, follow-up scripts, review request templates, and tools for contractors and home service businesses
+
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
