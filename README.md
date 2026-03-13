@@ -279,6 +279,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Taking Your Customer’s Side Is The Most Underrated Growth Hack](https://entrepreneurshandbook.co/taking-your-customers-side-is-the-most-underrated-growth-hack-6e216516e9f)
 - [Trendjacking Without the Cringe](https://sparktoro.com/blog/trendjacking-without-the-cringe/)
 
+- [Gingiris Growth Playbooks](https://github.com/Gingiris) - Open-source playbooks for AI product launches, open source marketing, and B2B growth. Based on AFFiNE's journey to 60k GitHub stars. (⭐)
 # Teams, Leadership, and Management
 
 - [The playbook for hiring the right marketer at the right time for your startup](https://review.firstround.com/the-playbook-for-hiring-the-right-marketer-at-the-right-time-for-your-startup)
