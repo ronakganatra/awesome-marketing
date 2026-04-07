@@ -318,6 +318,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
