@@ -146,6 +146,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 - [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
 - [A lesson from a DTC marketer to a B2B marketer](https://michaellorenzos.com/p/a-lesson-from-a-dtc-marketer-to-a)
+- [Overloop CLI](https://agent.overloop.ai) - AI-powered outbound engine. Source 450M+ contacts, launch email + LinkedIn campaigns, manage conversations from the terminal. JSON output, agent-native. `npm i -g overloop-cli`
+- [Signals CLI](https://github.com/sortlist/signals-cli) - Intent signal monitoring. Track LinkedIn engagers, keyword posters, job changers, funding events. JSON output for agent pipelines. `npm i -g signals-sortlist-cli`
 
 
 # Podcasts
