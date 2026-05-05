@@ -199,7 +199,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Search Engine Land](https://searchengineland.com/)
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
-- [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
+- [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/) - [Shaynly](https://shaynly.com/) - Full-service digital marketing and SEO agency helping brands scale with data-driven strategies
 
 # Startups & Getting Started
 
