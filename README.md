@@ -315,6 +315,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Tools
 
+- [AI Automation Playbook for Marketing Agencies](https://terriszmjechka.github.io/ai-automation-playbook/) - 20 step-by-step AI workflow automations for digital marketing agencies: client reporting, lead gen, content ops, and admin. Each workflow includes tool stack, setup steps, and time-saved estimate.
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
