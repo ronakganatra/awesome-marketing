@@ -374,6 +374,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Others
 
+- [Marketing Manager Jobs](https://marketingmanagerjobs.com/) - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
+
 - [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
 - [The mental models of Chinese tech](https://lillianli.substack.com/p/the-mental-models-of-chinese-tech)
 - [Bottlenecks of Startups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)
