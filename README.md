@@ -200,6 +200,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
+- [Schema Generator for Local Business](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD Schema markup generator for 22 types of local businesses. No signup required.
+- [Website Speed Comparison Tool](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website’s PageSpeed score vs. a competitor’s using Google PageSpeed Insights data.
 
 # Startups & Getting Started
 
