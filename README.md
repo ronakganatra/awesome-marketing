@@ -134,6 +134,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Growth Memo by Kevin Indig](https://www.kevin-indig.com/)
 - [Marketing Weekly by Corey Haines](https://app.mailbrew.com/coreyhainesco/marketing-weekly-WV3pZMdwsL29)
 - [The Marketing Newsletter](https://themarketingnewsletter.org/)
+- [MarketingShot](https://marketingshot.com)
 
 
 # Performance Marketing & Optimization
