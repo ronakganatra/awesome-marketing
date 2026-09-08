@@ -200,6 +200,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
+- [Searchd's AI Visibility Measurement Methodology](https://searchd.ai/how-it-works) - Explains buyer-question selection, per-engine brand mention tracking, and repeated baseline runs to distinguish visibility changes from answer variability.
 
 # Startups & Getting Started
 
