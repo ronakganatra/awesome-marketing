@@ -320,7 +320,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
-- [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
+- [Letter to a new Startup CMO]
+  - [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar, with bulk upload.(https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
 
 
 # Tweets
