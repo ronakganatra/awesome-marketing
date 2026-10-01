@@ -1,4 +1,4 @@
-![Awesome Marketing](https://media.giphy.com/media/E47JKwZnxvHuPjPkn1/giphy.gif)
+![Awesome Marketing](https://savepad.app/awesome-banner.png)
 
 A living document of hand-picked resources for marketers (or, I bookmark too many things to read and forget which folder they're in). I also have another list of [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing) resources.
 
