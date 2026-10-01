@@ -4,9 +4,7 @@ A living document of hand-picked resources for marketers (or, I bookmark too man
 
 If you're in B2D or actively marketing to developers and want to join a likeminded group of people, check out the [Developer Marketing Community](https://marketingto.dev/) I'm co-building.
 
-I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online. Join the waitlist 👇
-
-[<img src="https://raw.githubusercontent.com/ronakganatra/ronakganatra/master/Waitlist%20Banner.png">](https://savepad.app)
+I'm also co-building [Savepad](https://savepad.app) - a collaborative swipe file SaaS for cross-functional growth/marketing teams. Savepad is your little corner on the internet to store, organize, reference, and share all the amazing inspiration, resources, and examples you find online.
 
 If you found this list helpful, tweet it to let other marketers find it!
 
