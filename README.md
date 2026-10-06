@@ -144,6 +144,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 - [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
 - [A lesson from a DTC marketer to a B2B marketer](https://michaellorenzos.com/p/a-lesson-from-a-dtc-marketer-to-a)
+- [Reading reach, views, likes and engagement rates (Slovak)](https://kupitsledovatelov.sk/guides/dosah-zhliadnutia-lajky-miera-zapojenia) - Denominator choices, labelled model calculations and separation of organic and paid activity.
 
 
 # Podcasts
