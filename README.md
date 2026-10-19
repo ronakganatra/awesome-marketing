@@ -186,6 +186,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to Create a Product Content Strategy](https://www.departmentofproduct.com/blog/how-to-create-a-product-content-strategy/) (⭐)
 - [A Founder's Guide to Community](https://www.lennysnewsletter.com/p/building-community)
 - [How to Build a Product-Led Growth Strategy](https://productled.com/blog/product-led-growth-strategy-playbook/)
+- [Customer Research: Methods, Examples & How to Do It](https://pulsecorp.co/blog/customer-research-methods-examples-how-to-do-it/) - Guide to customer research methods and when to use each, with a five-step process and common mistakes
 
 
 # SEO
