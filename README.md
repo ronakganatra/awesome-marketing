@@ -75,6 +75,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Apple Mastered a 100-Year-Old Strategy Used to Sell Beer](https://bettermarketing.pub/how-apple-mastered-a-100-year-old-strategy-used-to-sell-beer-36b7d1360ed8)
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 - [How Shopify Grows](https://www.howtheygrow.co/p/how-shopify-grows)
+- [Today's Marketing](https://www.todays.marketing) - Free visual library of 150+ real marketing examples, each with the one principle behind it.
 
 
 # Content Marketing
