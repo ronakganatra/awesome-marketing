@@ -75,7 +75,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How Apple Mastered a 100-Year-Old Strategy Used to Sell Beer](https://bettermarketing.pub/how-apple-mastered-a-100-year-old-strategy-used-to-sell-beer-36b7d1360ed8)
 - [Inside Jasper's explosive growth through PLG and community](https://kylepoyar.substack.com/p/your-guide-to-ai-and-plg)
 - [How Shopify Grows](https://www.howtheygrow.co/p/how-shopify-grows)
-- [Today's Marketing](https://www.todays.marketing) - Free visual library of 150+ real marketing examples, each with the one principle behind it.
 
 
 # Content Marketing
@@ -223,6 +222,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Growth Marketing Summit: Marketing with Speed and Data](https://valchanova.me/growth-marketing-summit)
 - [25 Growth Strategies](https://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/)
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
+- [Today's Marketing](https://www.todays.marketing) - Free visual library of 150+ real marketing examples, each with the one principle behind it.
 - [This marketing strategy actually made me happier](https://www.indiehackers.com/post/this-marketing-strategy-actually-made-me-happier-320c36a798)
 - [How to Run a Growth Experiment - Learn the 4 Steps](https://mannhowie.com/growth-experiment)
 - [Metrics to focus on before and after product/market fit. How to better understand your product at different stages?](https://gopractice.io/product/metrics-to-focus-on-before-and-after-product-market-fit-how-to-better-understand-your-product-at-different-stages/)
