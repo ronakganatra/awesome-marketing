@@ -403,3 +403,4 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Focus is king, do not waste it](https://www.indiehackers.com/post/focus-is-king-do-not-waste-it-b5997ed2e8)
 - [39 Moves to Survive (& Thrive) in a Downturn: 2022 Edition](https://www.nfx.com/post/39-moves-survive-thrive-downturn)
 - [What to do Next When You Have a Business Idea?](https://blog.startupstash.com/what-to-do-next-when-you-have-a-business-idea-7f94ca5db844)
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
