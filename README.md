@@ -41,6 +41,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Product Led Growth by Wes Bush](https://productled.com/book/)
 - [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers by Geoffrey A. Moore](https://www.amazon.com/Crossing-Chasm-Marketing-High-Tech-Mainstream/dp/0887307175/ref=sr_1_1)
 - [Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone by Satya Nadella](https://www.amazon.com/Hit-Refresh-Rediscover-Microsofts-Everyone-ebook/dp/B01HOT5SQA) (⭐)
+- [The Complete Guide to DV360 (in Russian) by Marat Aksanov](https://aksanov.digital/books/dv360)
 
 # Case Studies
 
