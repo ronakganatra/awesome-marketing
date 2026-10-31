@@ -215,6 +215,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How to know when to pivot?](https://www.indiehackers.com/post/how-to-know-when-to-pivot-380909400b)
 - [Founders should think about channel/offer fit instead of product/market fit](https://jakobgreenfeld.com/channel-offer-fit)
 - [Your northstar metric may be broken 🛠](https://shorts.growthx.club/p/your-northstar-metric-may-be-broken)
+- [Where to promote your startup](https://mediapronet.com/where-to-promote-your-startup) - Places to launch and promote a startup, grouped by channel type, with submission rules, costs and a launch timeline.
 
 # Marketing Strategy and Growth
 
