@@ -315,6 +315,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Tools
 
+- [AdVariq](https://advariq.com/) - AI ad creative and visual generation platform to clone winning ads, edit product photos, and generate high-converting promotional assets (Free trial, paid plans start from 29 USD/month)
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
