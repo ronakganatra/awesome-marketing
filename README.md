@@ -199,6 +199,8 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated list of 75+ free/freemium product launch directories and backlink sources (quality tier + DR) maintained by [@sherotree](https://github.com/sherotree). Interactive version on [UWarp](https://www.uwarp.design/launch)
+- [SEOAudit](https://seoaudit.com.ua/) - Technical website audit and SEO diagnostic suite for crawlability, performance, security, and search engine indexing analysis.
+- [SEOCheck-AI](https://seocheck-ai.com/) - Autonomous technical SEO analyzer and Core Web Vitals diagnostic platform powered by intelligent crawlers.
 
 # Startups & Getting Started
 
@@ -321,6 +323,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
+- [ListAIHub](https://listaihub.com/) - Curated directory and discovery engine for AI marketing tools, LLM models, and autonomous agent frameworks.
 
 
 # Tweets
