@@ -321,6 +321,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
+- [Outfame Free Instagram Tools](https://www.outfame.com/free-instagram-tools) - Free Instagram engagement rate calculator, hashtag and caption generators and profile audit, no login required
 
 
 # Tweets
