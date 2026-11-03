@@ -199,6 +199,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated list of 75+ free/freemium product launch directories and backlink sources (quality tier + DR) maintained by [@sherotree](https://github.com/sherotree). Interactive version on [UWarp](https://www.uwarp.design/launch)
+- [GEO & AEO: SEO for AI Search Engines](https://313automations.com/blog/geo-aeo) - Guide to generative and answer engine optimization: how AI search picks its sources and how to get cited
 
 # Startups & Getting Started
 
