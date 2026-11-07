@@ -98,6 +98,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 # CRM
 
 - [Really Good Emails](https://reallygoodemails.com/) - Email inspiration for every email use case
+- [They Sent It](https://theysentit.com/) - Free archive of real marketing emails from 60,000+ brands, searchable by brand and email platform
 
 # Design Inspiration
 
