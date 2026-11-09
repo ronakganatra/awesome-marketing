@@ -94,6 +94,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
 - [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
 - [Elon Musk's Storytelling Framework](https://noise.beehiiv.com/p/elon-musks-storytelling-framework)
+- [BLOG.md](https://github.com/kingadow/blog-md) - Open-source system for running a weekly company blog with Claude: SEO setup, topic picks from search data, writing and scheduling
 
 # CRM
 
