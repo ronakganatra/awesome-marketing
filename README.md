@@ -145,6 +145,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 - [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
 - [A lesson from a DTC marketer to a B2B marketer](https://michaellorenzos.com/p/a-lesson-from-a-dtc-marketer-to-a)
+- [Decoy effect: 2 real examples, Surfshark and Adobe UK pricing](https://nudgeswipe.com/biases/decoy-effect/)
 
 
 # Podcasts
