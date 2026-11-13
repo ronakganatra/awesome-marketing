@@ -200,6 +200,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated list of 75+ free/freemium product launch directories and backlink sources (quality tier + DR) maintained by [@sherotree](https://github.com/sherotree). Interactive version on [UWarp](https://www.uwarp.design/launch)
+- [Canlah GEO — AI Answer Monitor](https://canlah.ai/extension/?utm_source=github&utm_medium=directory&utm_campaign=ext-w46.EXT-GH-AWESOMEMARKETING) - Chrome extension (early access) that asks ChatGPT and Google AI Overviews the questions your buyers type, then shows whether the answer names you, who it names instead, and which sources it cites
 
 # Startups & Getting Started
 
