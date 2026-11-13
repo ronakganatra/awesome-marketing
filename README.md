@@ -319,6 +319,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The 2021 Marketing Tech Stack](https://www.intercom.com/blog/the-ultimate-marketing-technology-stack) - Recommended stack from Intercom
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [StackScan](https://www.stackscan.com) - See the tech stack behind any website, or find the companies using a given marketing tool
+- [twtData X/Twitter Trends](https://twtdata.com/twitter-trends/) - Free hourly X/Twitter trending topics and hashtags worldwide and by country, with how many locations each trend appears in
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
