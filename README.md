@@ -225,6 +225,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [25 Growth Strategies](https://mashable.com/2017/11/07/influencer-markting-tips-tricks-25-most-influential/)
 - [Growth as a Mindset](https://debliu.substack.com/p/growth-as-a-mindset)
 - [Today's Marketing](https://www.todays.marketing) - Free visual library of 150+ real marketing examples, each with the one principle behind it.
+- [Solo Ad Lab](https://soloadlab.com/) - Free step-by-step playbooks for making and testing ads with AI, each credited to the creator who shared it.
 - [This marketing strategy actually made me happier](https://www.indiehackers.com/post/this-marketing-strategy-actually-made-me-happier-320c36a798)
 - [How to Run a Growth Experiment - Learn the 4 Steps](https://mannhowie.com/growth-experiment)
 - [Metrics to focus on before and after product/market fit. How to better understand your product at different stages?](https://gopractice.io/product/metrics-to-focus-on-before-and-after-product-market-fit-how-to-better-understand-your-product-at-different-stages/)
