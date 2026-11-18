@@ -320,6 +320,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [MarTech Base](http://martechbase.com/) - Resource for building stacks and seeing who's using what
 - [StackScan](https://www.stackscan.com) - See the tech stack behind any website, or find the companies using a given marketing tool
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
+- [Wavegrain](https://wavegrain.com/?utm_source=ronakganatra-awesome-marketing) - Writes and designs TikTok slideshows and Instagram carousels for a brand from its own photos, then schedules and posts them
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
