@@ -18,6 +18,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Sixteen Ventures](https://sixteenventures.com/) - Sales acceleration and growth marketing posts
 - [Andrew Chen](https://andrewchen.co/) - Long reads on growth and business (⭐)
 - [Better Marketing](https://medium.com/better-marketing)
+- [AI at Work by Digest AI](https://digestai.news/work) - Free, plain-English notes on AI tools a marketer or small business can use: what each one does, what it costs and the catch
 
 # Books
 
