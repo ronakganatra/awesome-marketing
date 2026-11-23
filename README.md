@@ -94,6 +94,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [The Animalz Content Marketing Benchmark Report 2021 by Ryan Lewis](https://www.animalz.co/blog/benchmark-report-2021/)
 - [16 Ways to Generate Stellar Content Ideas](https://ahrefs.com/blog/content-ideas/)
 - [Elon Musk's Storytelling Framework](https://noise.beehiiv.com/p/elon-musks-storytelling-framework)
+- [Safe Zone Checker & Templates](https://verticalvideomaker.app/safe-zone-checker/) - Free checker and 1080×1920 PNG overlays showing where TikTok, Reels and Shorts UI covers short-form video
 
 # CRM
 
