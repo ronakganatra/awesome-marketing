@@ -323,6 +323,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Etsy Shop Daily Sales](https://apify.com/publicrecords/etsy-shop-velocity) - Daily, 7-day and 28-day sales for Etsy shops from each shop's public sales counter (Apify Actor, API + MCP).
+- [Spotify Play Count Scraper](https://apify.com/publicrecords/spotify-play-count-scraper) - Play counts for every track on a Spotify track, album, artist or playlist link, plus monthly listeners (Apify Actor, API + MCP).
 
 
 # Tweets
