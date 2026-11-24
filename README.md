@@ -145,6 +145,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How acquisition and retention work together](https://productled.com/blog/how-acquisition-and-retention-work-together/)
 - [How to Scale Outbound Marketing](https://medium.com/demand-karma/how-to-scale-outbound-marketing-your-three-phase-map-4811e38473cf)
 - [A lesson from a DTC marketer to a B2B marketer](https://michaellorenzos.com/p/a-lesson-from-a-dtc-marketer-to-a)
+- [Meta Ads Message Testing Kit](https://github.com/shahshivani120-lab/meta-ads-message-testing) - Free method, scripts and workbook for testing one hook per ad to find the message buyers reply to on WhatsApp and Messenger
 
 
 # Podcasts
