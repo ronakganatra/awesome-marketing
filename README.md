@@ -47,7 +47,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Four Category Making Case Studies](https://clearpurpose.media/four-category-making-case-studies-1270fee6a53e)
 - [WhatsApp, The Anti-Marketing Growth Phenomenon](https://community.growthhackers.com/posts/whatsapp-the-anti-marketing-growth-phenomenon)
 - [Duolingo, The antithesis to the bazaar](https://nibnalin.me/dust-nib/duolingo-the-antithesis-to-the-bazaar.html)
-- [The SEO-driven user acquisition behind Zapier's growth to $35M ARR](https://www.reforge.com/brief/the-seo-driven-user-acquisition-behind-zapier-s-growth-to-35m-arr#mRAkHHpXXWEKLo3aqVW-MQ)
 - [From PPC to IPO: How Snowflake Did It](https://foundationinc.co/lab/snowflake-ipo)
 - [How Notion Built A $2B SaaS Startup Through Community & Templates](https://foundationinc.co/lab/notion-strategy)
 - [How Microsoft crushed Slack](https://www.platformer.news/p/how-microsoft-crushed-slack)
@@ -57,7 +56,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Grubhub's link building strategy](https://marketingexamples.com/seo/grubhub-link-building)
 - [How Monday.com Scaled to $5.7B in Market Cap](https://twitter.com/thecoolestcool/status/1502139246827683841)
 - [You can't win - How Freshworks rewrote the traditional SaaS growth playbook](https://kylepoyar.substack.com/p/you-cant-win)
-- [How Segment grew to a 1Billion business](https://growthhackers.com/growth-studies/segment-revolutionizing-customer-experience-with-data)
 - [When Multi-level Marketing Met GenZ](https://www.theatlantic.com/technology/archive/2021/11/breakaway-movement-gen-z-multilevel-marketing/620592/)
 - [How Stripe Scaled - Notes from Office Hours with Claire Hughes Johnson](https://tomtunguz.com/claire-hughes-johnson-notes/)
 - [Stripe's model of product-led, developer-centric growth.](https://lethain.com/stripe-product-led-developer-centric-growth/)
@@ -67,7 +65,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [IKEA x India — A Research Case Study](https://bootcamp.uxdesign.cc/ikea-x-india-a-research-case-study-c73ac608c08b)
 - [“Traction Tactics” Behind Square, PayPal, Waze, Twilio & More](https://www.nfx.com/post/traction-tactics/) (⭐)
 - [What is Product-Led Growth? The case of EasyBON](https://medium.com/@cesar_miguel/what-is-product-led-growth-the-case-of-easybon-2b080e1ee8b7)
-- [Content(ful) is King](https://www.topofthelyne.co/p/contentful-is-king)
 - [Starting from zero](https://productlessons.substack.com/p/starting-from-zero)
 - [Your guide to PLG + enterprise - Inside Similarweb’s $190M growth engine and how PLG unlocks Enterprise customers](https://kylepoyar.substack.com/p/your-guide-to-plg-enterprise)
 - [Amazon’s Guide To Marketing Psychology](https://bettermarketing.pub/amazons-guide-to-marketing-psychology-75b68223551)
@@ -151,15 +148,12 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 - [The Tim Ferriss Show by Tim Ferriss](https://tim.blog/podcast/)
 - [Pivot by Scott Galloway and Kara Swisher](https://player.fm/podcasts/Scott-Galloway) (⭐)
-- [The Prof G Show by Scott Galloway](http://www.westwoodonepodcasts.com/pods/the-prof-g-show-with-scott-galloway/)
 - [Everyone Hates Marketers by Louis Grenier](https://www.everyonehatesmarketers.com/) (⭐)
 - [This Old Marketing Podcast by Joe Pulizzi and Robert Rose](https://contentmarketinginstitute.com/pnr-with-this-old-marketing-podcast/)
 - [Perpetual Traffic by Ralph Burns and Amanda Powell](https://digitalmarketer.com/podcast/perpetual-traffic/)
 - [Online Marketing Made Easy by Amy Porterfield](https://amyporterfield.com/amy-porterfield-podcast/)
-- [Marketing Scoop by Laura Morelli](https://semrush.com/podcast/)
 - [Marketing Over Coffee by John J. Wall and Christopher S. Penn](https://marketingovercoffee.com/)
 - [Copyblogger FM by Darrell Vesterfelt and Curt Nickisch](https://rainmaker.fm/series/lede/)
-- [Growth Mapping by Sujan Patel and Aaron Agius](https://growthmappingpodcast.com/)
 - [Masters of Scale by Reid Hoffmann](https://mastersofscale.com/)
 - [Entrepreneurs on Fire by John Lee Duma](https://www.eofire.com/podcast/)
 
@@ -191,11 +185,11 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # SEO
 
-- [SEO Community](https://seo-community.org/) - Public domain project listing resources for SEO (⭐)
 - [ahrefs SEO trends for 2021](https://ahrefs.com/blog/seo-trends/)
 - [Learning SEO](https://learningseo.io/) - Free SEO learning roadmap with tons of resources
 - [How does SEO Work?](https://learn.g2.com/how-does-seo-work) - G2 article on the basics of SEO
 - [Search Engine Land](https://searchengineland.com/)
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
 - [Pain-Point SEO: How to Produce SEO Content That Drives Conversions](https://growandconvert.com/content-marketing/seo-content-conversions/) (⭐)
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
@@ -203,7 +197,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 # Startups & Getting Started
 
-- [Early Adopter Marketing – How startups get their first users](https://www.kevin-indig.com/blog/early-adopter-marketing-startups-get-first-users/)
 - [What I Learned About Startups by Collecting 30,000 Data Points](https://alitamaseb.medium.com/what-i-learned-about-startups-by-collecting-30-000-data-points-f10657724b2a)
 - [Mapping the Insights that Drive Startup Ideas & Theses](https://newsletter.sandhill.io/p/insights-that-drive-ideation)
 - [Offer-led Growth](https://www.indiehackers.com/post/offer-led-growth-d75d74ebdb)
@@ -234,15 +227,12 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [How marketing sneakily affects our decision-making](https://memod.com/MrBusiness/how-does-marketing-affect-our-decision-making-629)
 - [The Product Strategy Stack](https://www.reforge.com/blog/the-product-strategy-stack)
 - [How to Master Product Virality](https://productled.com/blog/product-virality/)
-- [Systems Thinking 101](https://www.kevin-indig.com/growth-memo/systems-thinking-101/)
 - [Hyper-growth is great, but don’t die while trying](https://medium.com/point-nine-news/hyper-growth-is-great-but-dont-die-while-trying-3b5125a79135)
 - [SaaS Renewal Best Practices](https://www.process.st/saas-renewal-best-practices/)
 - [Growth vs Profitability](https://www.zacksiri.com/growth-vs-profitability/)
 - [11 Channels that consistently work](https://www.indiehackers.com/post/11-marketing-channels-that-consistently-work-for-founders-8992a89a03)
 - [Improving Your SaaS' Free to Paid Conversion Rate](https://www.forgetthefunnel.com/resources/saas-free-to-paid-conversion-rate)
 - [Don't Let Your North Star Metric Deceive You](https://www.reforge.com/blog/north-star-metric-growth) (⭐)
-- [Flywheels And How To Create Content Communities](https://andyjohns.co/posts/flywheels-and-how-to-create-content-communities) (⭐)
-- [How to get your company out of the MQL trap](https://www.yaagneshwaran.com/blog/mql-trap/)
 - [How to know if you've got product-market fit](https://www.lennysnewsletter.com/p/how-to-know-if-youve-got-productmarket)
 - [SaaS Churn and Short-Term Customers: The Contrarian View](https://sparktoro.com/blog/saas-churn-and-short-term-customers-the-contrarian-view/) (⭐)
 - [Is it time to ditch the old SaaS metrics?](https://kylepoyar.substack.com/p/plg-saas-metrics)
@@ -275,7 +265,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What is Hypergrowth?](https://www.drift.com/blog/what-is-hypergrowth/)
 - [Product Driven Vs. Customer Driven](https://www.ribbonfarm.com/2014/04/24/product-driven-versus-customer-driven/)
 - [Traditional B2B Sales and Marketing are Becoming Obsolete](Traditional B2B Sales and Marketing Are Becoming Obsolete)
-- [Exponential Growth Isn’t Cool. Combinatorial Explosion Is](https://www.torbair.com/blog/2015/12/26/4mvxoio4tc8j28reqsbz449tlab4ss)
 - [High Output Marketing](https://www.positivehuman.co/articles/high-output-marketing)
 - [Taking Your Customer’s Side Is The Most Underrated Growth Hack](https://entrepreneurshandbook.co/taking-your-customers-side-is-the-most-underrated-growth-hack-6e216516e9f)
 - [Trendjacking Without the Cringe](https://sparktoro.com/blog/trendjacking-without-the-cringe/)
@@ -284,7 +273,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 
 - [The playbook for hiring the right marketer at the right time for your startup](https://review.firstround.com/the-playbook-for-hiring-the-right-marketer-at-the-right-time-for-your-startup)
 - [The Startup Org Chart from Founding to IPO](https://theorg.com/insights/the-startup-org-chart-from-founding-to-ipo)
-- [Leaders Whose Time Has Passed](https://staysaasy.com/management/2021/08/06/Transient-Executives.html)
 - [Your Marketing Org is Slow. Here’s a Framework to Move Faster](https://review.firstround.com/your-marketing-org-is-slow-heres-a-framework-to-move-faster)
 - [All your VPs really need to do is tilt the curve](https://www.saastr.com/all-your-vps-really-need-to-do-is-tilt-the-curve/)
 - [How the Best CEOs Use ‘Thinking Time’](https://openviewpartners.com/blog/ceo-thinking-time) (⭐)
@@ -322,7 +310,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Build Your DXP](https://buildyourdxp.com) - Community durated list of API-first tools for Martech stacks
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
-- [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
 
 
 # Tweets
@@ -379,8 +366,6 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [Kevan Lee's Interview Prep](https://kevanlee.substack.com/p/206-interview-prep-) - list of resources for marketing interviews
 - [The mental models of Chinese tech](https://lillianli.substack.com/p/the-mental-models-of-chinese-tech)
 - [Bottlenecks of Startups](https://martinfowler.com/articles/bottlenecks-of-scaleups/)
-- [Kevin Indig's Good Reads](https://www.kevin-indig.com/good-reads/) - List of articles, books, and videos recommended by Kevin Indig
-- [The Unicornian](https://www.theunicornian.io/) - The onion for startups?
 - [Your Pricing Should Be Free or Ultra Expensive (And What To Do If It’s Stuck In The Middle)](https://nicolascole77.medium.com/your-pricing-should-be-free-or-ultra-expensive-and-what-to-do-if-its-stuck-in-the-middle-126d2248a674)
 - [How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4) - Peter Reinhardt (Segment) talk at Y Combinator
 - [Books people (re)read](https://rauchg.com/2020/books-people-reread)
