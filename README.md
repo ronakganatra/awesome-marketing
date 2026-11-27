@@ -200,6 +200,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [9 Ways to Break Through a Website Traffic Plateau](https://databox.com/website-traffic-plateau) (⭐)
 - [There Are Four Kinds of Keyword Research; Make Sure You’re Doing the Right One(s)](https://sparktoro.com/blog/there-are-four-kinds-of-keyword-research-make-sure-youre-doing-the-right-ones/)
 - [Free Backlink Sources](https://github.com/sherotree/free-backlink-sources) - Curated list of 75+ free/freemium product launch directories and backlink sources (quality tier + DR) maintained by [@sherotree](https://github.com/sherotree). Interactive version on [UWarp](https://www.uwarp.design/launch)
+- [SaaS Launch & Directory Authority Open Datasets (2026)](https://github.com/best-directories/saas-launch-datasets-2026) - CC-BY-4.0 CSV datasets covering 1,667 SaaS directories with Ahrefs DR3 vs DR4 deltas, 2,801-domain directory health audit, and 1,889 indie SaaS launches. Interactive directory index on [SaaSCity](https://saascity.io/best-saas-directories).
 
 # Startups & Getting Started
 
