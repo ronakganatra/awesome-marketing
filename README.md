@@ -323,6 +323,7 @@ Why am I turning my bookmarks into a public repo? The problem with marketing rel
 - [What's your Marketing Stack?](https://www.reddit.com/r/marketing/comments/55myuq/whats_your_complete_marketing_stack/)
 - [Marketing Integrations: The Challenge of Getting Your Marketing Tech Stack to Play Nice](https://cxl.com/blog/marketing-integrations/)
 - [Letter to a new Startup CMO](https://www.lenmarkidan.com/members/posts/46760-letter-to-a-new-startup-cmo)
+- [Superpixel](https://superpixel.run) - Free, open-source Chrome extension that shows the marketing tags and account IDs on any website, plus the ads it runs in the Google, Meta, TikTok, LinkedIn, Microsoft and Snapchat ad libraries
 
 
 # Tweets
